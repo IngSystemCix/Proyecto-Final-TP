@@ -10,7 +10,7 @@
 * Ramos Marrufo Daniel David
 * Fupuy Chamamé, Jorge Hugo
 
-## **Ciclo Académico: **
+## **Ciclo Académico:**
 
 Ciclo Marzo 2023 - 1
 
