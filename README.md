@@ -18,4 +18,4 @@ Ciclo Marzo 2023 - 1
 
 Universidad Tecnológica del perú
 
-![Logo UTP]()
+![Logo UTP](https://github.com/INGSYSTEM/Proyecto-Final-TP/blob/main/recursos_adicionales/LOGOTIPO-UTP.png)
