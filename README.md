@@ -1,10 +1,10 @@
-# Proyecto Final de Taller de Programación
+# Proyecto Final de Taller de Programación 💻☕
 
 ## **Nombre del proyecto:**
 
 
 
-## **Integrantes:**
+## **Desarrolladores:**
 
 * Romero Collazos Juan Bladimir
 * Ramos Marrufo Daniel David
@@ -19,3 +19,8 @@ Ciclo Marzo 2023 - 1
 Universidad Tecnológica del perú
 
 ![Logo UTP](https://github.com/INGSYSTEM/Proyecto-Final-TP/blob/main/recursos_adicionales/LOGOTIPO-UTP.png)
+
+## **Lenguajes de programación usados en el proyecto:**
+
+* Java
+* HTML5
