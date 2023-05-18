@@ -24,3 +24,7 @@ Universidad Tecnológica del perú
 
 * Java
 * HTML5
+
+## **Herramientas de desarrollo:**
+
+* JDK (17.0.7 corretto)
