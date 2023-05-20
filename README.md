@@ -28,3 +28,4 @@ Universidad Tecnológica del perú
 ## **Herramientas de desarrollo:**
 
 * JDK (17.0.7 corretto)
+* Jetty (Servlet)
