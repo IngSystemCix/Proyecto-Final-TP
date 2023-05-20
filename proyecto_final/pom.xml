@@ -40,6 +40,12 @@
       <version>4.0.0</version> <!-- Versión específica del API de Servlet -->
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.jetbrains</groupId>
+      <artifactId>annotations</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 
   <build>
