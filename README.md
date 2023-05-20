@@ -1,6 +1,6 @@
 # Proyecto Final de Taller de Programación 💻☕
 
-## **Nombre del proyecto:**
+## **Nombre del aplicativo web:**
 
 
 
