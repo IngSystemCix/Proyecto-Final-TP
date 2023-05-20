@@ -27,5 +27,7 @@ Universidad Tecnológica del perú
 
 ## **Herramientas de desarrollo:**
 
+* IntelliJ Idea (Editor)
 * JDK (17.0.7 corretto)
 * Jetty (Servlet)
+* Maven (org.apache.maven.archetype:quickstart)
