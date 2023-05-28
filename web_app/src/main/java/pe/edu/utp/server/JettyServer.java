@@ -13,7 +13,7 @@ public class JettyServer {
         // Configuración del contexto de la aplicación web
         WebAppContext webAppContext = new WebAppContext();
         webAppContext.setContextPath("/");
-        webAppContext.setWar("src/main/webapp"); // Ruta al directorio webapp de tu proyecto
+        webAppContext.setWar("src/main/java/pe/edu/utp/webapp"); // Ruta al directorio webapp de tu proyecto
 
         // Configuración del handler del servidor
         HandlerCollection handlers = new HandlerCollection();
