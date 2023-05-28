@@ -5,7 +5,7 @@
 
 ## **Versión del aplicativo web:**
 
-1.0
+1.0-SNAPSHOT
 
 ## **Desarrolladores:**
 
