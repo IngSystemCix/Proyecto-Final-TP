@@ -32,5 +32,5 @@ Universidad Tecnológica del perú
 
 * IntelliJ Idea (Editor)
 * JDK (17.0.7 corretto)
-* Jetty (Servlet)
+* Jetty 11.0.15 (Servlet)
 * Maven (org.apache.maven.archetype:quickstart)
