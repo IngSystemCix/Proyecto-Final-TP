@@ -2,6 +2,7 @@
 
 ## **Nombre del aplicativo web:**
 
+Generador de Estadísticas
 
 ## **Versión del aplicativo web:**
 
@@ -21,8 +22,6 @@ Ciclo Marzo 2023 - 1
 
 Universidad Tecnológica del perú
 
-![Logo UTP](https://github.com/INGSYSTEM/Proyecto-Final-TP/blob/main/recursos_adicionales/LOGOTIPO-UTP.png)
-
 ## **Lenguajes de programación usados en el proyecto:**
 
 * Java
@@ -32,5 +31,4 @@ Universidad Tecnológica del perú
 
 * IntelliJ Idea (Editor)
 * JDK (17.0.7 corretto)
-* Jetty 11.0.15 (Servlet)
 * Maven (org.apache.maven.archetype:quickstart)
