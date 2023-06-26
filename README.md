@@ -32,3 +32,7 @@ Universidad Tecnológica del perú
 * IntelliJ Idea (Editor)
 * JDK (17.0.7 corretto)
 * Maven (org.apache.maven.archetype:quickstart)
+
+## **Recursos:**
+
+* CSV [**CATALOGO SISMICO 1960-2021 (IGP)**]: https://www.datosabiertos.gob.pe/dataset/catalogo-sismico-1960-2021-igp
