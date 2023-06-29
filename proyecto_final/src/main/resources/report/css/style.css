@@ -1,0 +1,29 @@
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --colorFondo: #323232;
+  --colorTexto: #eee;
+}
+
+html,
+body {
+  background-color: var(--colorFondo);
+  color: var(--colorTexto);
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.chart {
+  width: 50%;
+  min-height: 400px;
+}
