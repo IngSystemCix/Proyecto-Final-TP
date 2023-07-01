@@ -5,7 +5,7 @@ import pe.edu.utp.util.TextUTP;
 import java.io.IOException;
 
 public class InputData {
-    public static ValidationData [] loadAlumnos(String filename) throws IOException{
+    public static ValidationData [] loadData(String filename) throws IOException{
         // Cargar datos en array String (Autor: Juan Bladimir Romero Collazos)
         String [] lineas = TextUTP.readlinesAsArray(filename);
         ValidationData [] lista = new ValidationData[lineas.length];
