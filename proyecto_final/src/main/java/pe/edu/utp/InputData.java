@@ -1,0 +1,27 @@
+package pe.edu.utp;
+
+import pe.edu.utp.util.TextUTP;
+
+import java.io.IOException;
+
+public class InputData {
+    public static ValidationData [] loadAlumnos(String filename) throws IOException{
+        // Cargar datos en array String (Autor: Juan Bladimir Romero Collazos)
+        String [] lineas = TextUTP.readlinesAsArray(filename);
+        ValidationData [] lista = new ValidationData[lineas.length];
+        int nd = 0;
+        // Iterar todas las líneas (Autor: Juan Bladimir Romero Collazos)
+        for (String linea : lineas) {
+            // Usamos el split para fragmentar las líneas en 7 elementos
+            String [] fragmentos = linea.split(",");
+            String id = fragmentos[0];
+            String fechaUTC = fragmentos[1];
+            String horaUTC = fragmentos[2];
+            double latitud = Double.parseDouble(fragmentos[3]);
+            int profundidad = Integer.parseInt(fragmentos[4]);
+            double magnitud = Double.parseDouble(fragmentos[5]);
+            String fechaCorte = fragmentos[6];
+        }
+        return lista;
+    }
+}
