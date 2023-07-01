@@ -14,6 +14,7 @@ public class ValidationData
         this.magnitud = magnitud;
         this.fechaCorte = fechaCorte;
     }
+
     // Getters y Setters (Autor: Juan Bladimir Romero Collazos)
     public int getId() {
         return id;
