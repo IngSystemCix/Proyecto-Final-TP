@@ -8,20 +8,22 @@ public class InputData {
     public static ValidationData [] loadData(String filename) throws IOException{
         // Cargar datos en array String (Autor: Juan Bladimir Romero Collazos)
         String [] lineas = TextUTP.readlinesAsArray(filename);
-        ValidationData [] lista = new ValidationData[lineas.length];
+        ValidationData [] lista = new ValidationData[lineas.length - 1];
         int nd = 0;
         // Iterar todas las líneas (Autor: Juan Bladimir Romero Collazos)
-        for (String linea : lineas) {
+        for (int i = 1; i < lineas.length; i++) {
             // Usamos el split para fragmentar las líneas en 7 elementos (Autor: Juan Bladimir Romero Collazos)
+            String linea = lineas[i];
             String [] fragmentos = linea.split(",");
-            long id = Long.parseLong(fragmentos[0]);
-            String fechaUTC = fragmentos[1];
-            String horaUTC = fragmentos[2];
-            double latitud = Double.parseDouble(fragmentos[3]);
-            int profundidad = Integer.parseInt(fragmentos[4]);
-            double magnitud = Double.parseDouble(fragmentos[5]);
-            String fechaCorte = fragmentos[6];
-            lista[nd++] = new ValidationData(id, fechaUTC, horaUTC, latitud,
+            long id = Long.parseLong(fragmentos[0].replaceAll("\"", "").trim());
+            String fechaUTC = fragmentos[1].replaceAll("\"", "").trim();
+            String horaUTC = fragmentos[2].replaceAll("\"", "").trim();
+            double latitud = Double.parseDouble(fragmentos[3].replaceAll("\"", "").trim());
+            double longitud = Double.parseDouble(fragmentos[4].replaceAll("\"", "").trim());
+            int profundidad = (int) Double.parseDouble(fragmentos[5].replaceAll("\"", "").trim());
+            double magnitud = Double.parseDouble(fragmentos[6].replaceAll("\"", "").trim());
+            String fechaCorte = fragmentos[7].replaceAll("\"", "").trim();
+            lista[nd++] = new ValidationData(id, fechaUTC, horaUTC, latitud, longitud,
                     profundidad, magnitud, fechaCorte);
         }
         return lista;

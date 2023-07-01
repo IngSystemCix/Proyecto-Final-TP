@@ -3,18 +3,21 @@ package pe.edu.utp;
 public class ValidationData
 {
     // Constructores (Autor: Juan Bladimir Romero Collazos)
+
     public ValidationData() {
     }
-    public ValidationData(long id, String fechaUTC, String horaUTC, double latitud, int profundidad, double magnitud, String fechaCorte) {
+
+    public ValidationData(long id, String fechaUTC, String horaUTC, double latitud, double longitud,
+                          int profundidad, double magnitud, String fechaCorte) {
         this.id = id;
         this.fechaUTC = fechaUTC;
         this.horaUTC = horaUTC;
         this.latitud = latitud;
+        this.longitud = longitud;
         this.profundidad = profundidad;
         this.magnitud = magnitud;
         this.fechaCorte = fechaCorte;
     }
-
     // Getters y Setters (Autor: Juan Bladimir Romero Collazos)
 
     public long getId() {
@@ -47,6 +50,14 @@ public class ValidationData
 
     public void setLatitud(double latitud) {
         this.latitud = latitud;
+    }
+
+    public double getLongitud() {
+        return longitud;
+    }
+
+    public void setLongitud(double longitud) {
+        this.longitud = longitud;
     }
 
     public int getProfundidad() {
@@ -82,6 +93,7 @@ public class ValidationData
                 ", fechaUTC='" + fechaUTC + '\'' +
                 ", horaUTC='" + horaUTC + '\'' +
                 ", latitud=" + latitud +
+                ", longitud=" + longitud +
                 ", profundidad=" + profundidad +
                 ", magnitud=" + magnitud +
                 ", fechaCorte='" + fechaCorte + '\'' +
@@ -93,6 +105,7 @@ public class ValidationData
     private String fechaUTC;
     private String horaUTC;
     private double latitud;
+    private double longitud;
     private int profundidad;
     private double magnitud;
     private String fechaCorte;
