@@ -5,7 +5,7 @@ public class ValidationData
     // Constructores (Autor: Juan Bladimir Romero Collazos)
     public ValidationData() {
     }
-    public ValidationData(int id, String fechaUTC, String horaUTC, double latitud, int profundidad, double magnitud, String fechaCorte) {
+    public ValidationData(long id, String fechaUTC, String horaUTC, double latitud, int profundidad, double magnitud, String fechaCorte) {
         this.id = id;
         this.fechaUTC = fechaUTC;
         this.horaUTC = horaUTC;
@@ -16,11 +16,12 @@ public class ValidationData
     }
 
     // Getters y Setters (Autor: Juan Bladimir Romero Collazos)
-    public int getId() {
+
+    public long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(long id) {
         this.id = id;
     }
 
@@ -73,6 +74,7 @@ public class ValidationData
     }
 
     // toString (Autor: Juan Bladimir Romero Collazos)
+
     @Override
     public String toString() {
         return "ValidationData{" +
@@ -87,7 +89,7 @@ public class ValidationData
     }
 
     // Declaración de variables (Autor: Juan Bladimir Romero Collazos)
-    private int id;
+    private long id;
     private String fechaUTC;
     private String horaUTC;
     private double latitud;

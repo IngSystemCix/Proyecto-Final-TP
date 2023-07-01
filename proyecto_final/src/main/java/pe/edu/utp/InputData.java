@@ -14,7 +14,7 @@ public class InputData {
         for (String linea : lineas) {
             // Usamos el split para fragmentar las líneas en 7 elementos (Autor: Juan Bladimir Romero Collazos)
             String [] fragmentos = linea.split(",");
-            int id = Integer.parseInt(fragmentos[0]);
+            long id = Long.parseLong(fragmentos[0]);
             String fechaUTC = fragmentos[1];
             String horaUTC = fragmentos[2];
             double latitud = Double.parseDouble(fragmentos[3]);
