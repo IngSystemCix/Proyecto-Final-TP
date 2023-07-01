@@ -1,7 +1,7 @@
 package pe.edu.utp;
 import java.io.IOException;
 
-public class AppReporte {
+public class AppReport {
     public static void main(String[] args) throws IOException{
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
