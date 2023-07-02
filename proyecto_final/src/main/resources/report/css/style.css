@@ -18,6 +18,9 @@
   --colorCabezera: #252A34;
   --colorBordes: #FF2E63;
   --colorLabel: linear-gradient(48deg, rgba(8,217,214,1) 0%, rgba(0,162,24,1) 19%, rgba(1,81,18,1) 38%, rgba(0,0,0,1) 100%);
+  --colorHover: #f5f5f5;
+  --colorBarra: #383d45;
+  --colorBarraHover: #5c5c5c;
   --fontText: 'Bebas Neue', sans-serif;
   --espacioEntreLetras: 3px;
 }
@@ -28,20 +31,30 @@ body {
   color: var(--colorTexto);
 }
 
-.row {
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--colorBarra);
+  border-radius: 50px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: var(--colorBarraHover);
 }
 
 .chart {
-  width: 50%;
-  min-height: 400px;
+  width: 100%;
+  min-height: 500px;
 }
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th, td {
@@ -62,7 +75,7 @@ th {
 }
 
 tr:hover {
-  background-color: #f5f5f5;
+  background-color: var(--colorHover);
 }
 
 label {
@@ -75,10 +88,63 @@ label {
   font-weight: 900;
   letter-spacing: var(--espacioEntreLetras);
   font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .label-footer {
   background-color: var(--colorCabezera);
   color: var(--colorTextoAlternativo);
   letter-spacing: var(--espacioEntreLetras);
+}
+
+/* Estilos específicos para pantallas pequeñas (mobile) */
+@media (max-width: 767px) {
+  th,
+  td {
+    font-size: 16px;
+    display: block;
+    width: 100%;
+  }
+  
+  th:nth-child(1),
+  td:nth-child(1) {
+    border-top: 1px solid var(--colorBordes);
+  }
+  
+  th:nth-child(8),
+  td:nth-child(8) {
+    border-bottom: 1px solid var(--colorBordes);
+  }
+  label{
+    font-size: 16px;
+  }
+  .chart{
+    width: 100%;
+  }
+}
+
+/* Estilos específicos para tablets en orientación vertical */
+@media (min-width: 768px) and (max-width: 1023px) and (orientation: portrait) {
+  th,
+  td {
+    font-size: 18px;
+  }
+}
+
+/* Estilos específicos para tablets en orientación horizontal */
+@media (min-width: 768px) and (max-width: 1023px) and (orientation: landscape) {
+  th,
+  td {
+    font-size: 20px;
+  }
+}
+
+/* Estilos específicos para laptops y pantallas grandes */
+@media (min-width: 1024px) {
+  th,
+  td {
+    font-size: 20px;
+  }
 }
