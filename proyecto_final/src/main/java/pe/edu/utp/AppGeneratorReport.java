@@ -81,6 +81,6 @@ public class AppGeneratorReport {
         int opc = input.nextInt();input.nextLine();
         return (opc == 0) ? "Espere porfavor se esta creado el reporte ASCII..." :
                 (opc == 1) ? "Espere porfavor se esta creado el reporte HTML..." :
-                        "Usted a ingresado una opción invalidad";
+                        "Usted a ingresado una opción invalida";
     }
 }
