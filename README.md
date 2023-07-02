@@ -27,6 +27,11 @@ Universidad Tecnológica del perú
 * Java
 * HTML5
 
+## **Librerías usadas**
+
+* Bootstrap **(Librería para diseño)**
+* Apache ECharts **(Librería para crear gráficos)**
+
 ## **Herramientas de desarrollo:**
 
 * IntelliJ Idea (Editor)
