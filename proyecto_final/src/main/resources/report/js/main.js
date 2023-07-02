@@ -1,16 +1,25 @@
+// procentajes (Creador: Juan Bladimir Romero Collazos)
+
+const totalDatos = 22712;
+const numeroCoincidencias = 2;
+const porcentaje = (100 * numeroCoincidencias) / totalDatos;
+const porcentajeCelda = document.getElementById("porcentaje");
+
+porcentajeCelda.textContent = `${porcentaje.toFixed(2)}%`
+
 // Gráficos (Creador: Juan Bladimir Romero Collazos)
 const getOptionChart1 = () => {
   return {
     xAxis: {
       type: 'category',
-      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+      data: ['3', '4', '5', '6', '7', '8', '9']
     },
     yAxis: {
       type: 'value'
     },
     series: [
       {
-        data: [120, 200, 150, 80, 70, 110, 130],
+        data: [3, 4, 5, 6, 7, 8, 9],
         type: 'bar'
       }
     ]
@@ -21,14 +30,14 @@ const getOptionChart2 = () => {
     xAxis: {
       type: 'category',
       boundaryGap: false,
-      data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+      data: ['3', '4', '5', '6', '7', '8', '9']
     },
     yAxis: {
       type: 'value'
     },
     series: [
       {
-        data: [820, 932, 901, 934, 1290, 1330, 1320],
+        data: [3, 4, 5, 6, 7, 8, 9],
         type: 'line',
         areaStyle: {}
       }
@@ -71,11 +80,9 @@ const getOptionChart3 = () => {
           show: false
         },
         data: [
-          { value: 1048, name: 'Search Engine' },
-          { value: 735, name: 'Direct' },
-          { value: 580, name: 'Email' },
-          { value: 484, name: 'Union Ads' },
-          { value: 300, name: 'Video Ads' }
+          { value: 1048, name: 'Número de coincidencias' },
+          { value: 735, name: 'Horas más frecuentes' },
+          { value: 484, name: 'Magnitud más recurrente' },
         ]
       }
     ]
@@ -124,12 +131,12 @@ const getOptionChart4 = () => {
         },
         detail: {
           valueAnimation: true,
-          fontSize: 80,
+          fontSize: 50,
           offsetCenter: [0, '70%']
         },
         data: [
           {
-            value: 50
+            value: porcentaje.toFixed(2)
           }
         ]
       }
@@ -151,13 +158,3 @@ const initCharts = () => {
 window.addEventListener('load', () => {
   initCharts();
 });
-
-
-// procentajes (Creador: Juan Bladimir Romero Collazos)
-
-const totalDatos = 22712;
-const numeroCoincidencias = 2;
-const porcentaje = (100 * numeroCoincidencias) / totalDatos;
-const porcentajeCelda = document.getElementById("porcentaje");
-
-porcentajeCelda.textContent = `${porcentaje.toFixed(2)}%`
