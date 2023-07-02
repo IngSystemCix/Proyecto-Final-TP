@@ -1,11 +1,27 @@
 package pe.edu.utp;
 
+/**
+ * @author Juan Bladimir Romero Collazos
+ */
+
 public class ValidationData
 {
     // Constructores (Autor: Juan Bladimir Romero Collazos)
 
     public ValidationData() {
     }
+
+    /**
+     * Este constructor nos permite almacenar la data
+     * @param id
+     * @param fechaUTC
+     * @param horaUTC
+     * @param latitud
+     * @param longitud
+     * @param profundidad
+     * @param magnitud
+     * @param fechaCorte
+     */
 
     public ValidationData(long id, String fechaUTC, String horaUTC, double latitud, double longitud,
                           int profundidad, double magnitud, String fechaCorte) {
@@ -85,6 +101,13 @@ public class ValidationData
     }
 
     // toString (Autor: Juan Bladimir Romero Collazos)
+
+    /**
+     * Proporciona una representación personalizada de sus objetos como una cadena de caracteres,
+     * que incluye información específica de las variables de instancia del objeto. Esto es útil
+     * cuando se desea obtener una representación legible del objeto para su visualización o depuración.
+     * @return
+     */
 
     @Override
     public String toString() {

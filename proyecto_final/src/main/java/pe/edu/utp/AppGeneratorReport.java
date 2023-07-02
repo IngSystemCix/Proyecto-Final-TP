@@ -2,9 +2,12 @@ package pe.edu.utp;
 
 import java.util.Scanner;
 
+/**
+ * @author Juan Bladimir Romero Collazos
+ */
+
 public class AppGeneratorReport {
     public static void main(String[] args) {
-        // Creación del menú (Autor: Juan Bladimir Romero Collazos)
         Scanner input = new Scanner(System.in);
         String menu = """
                 ################################################################################################
@@ -64,9 +67,11 @@ public class AppGeneratorReport {
             }
         }while (continuar);
     }
-
-    /*    Creacion de la función para poder hacer la pregunta de que tipo de
-          reporte desea el usuario (Autor: Juan Bladimir Romero Collazos)        */
+    /**
+     * Creacion de la función para poder hacer la pregunta de que tipo de reporte desea el usuario
+     * @return Si la opción es 0 o 1 para mandar un mensaje por consola
+     */
+    /* (Autor: Juan Bladimir Romero Collazos)        */
     public static String reportASCIIorHTML5 () {
         Scanner input = new Scanner(System.in);
         String pregunta = """

@@ -4,7 +4,18 @@ import pe.edu.utp.util.TextUTP;
 
 import java.io.IOException;
 
+/**
+ * @author Juan Bladimir Romero Collazos
+ */
+
 public class InputData {
+    /**
+     * Nos permite Cargar los datos desde un archivo externo
+     * Uso de {@link InputData#loadData(String)}
+     * @param filename
+     * @return La lista de datos
+     * @throws IOException
+     */
     public static ValidationData [] loadData(String filename) throws IOException{
         // Cargar datos en array String (Autor: Juan Bladimir Romero Collazos)
         String [] lineas = TextUTP.readlinesAsArray(filename);
