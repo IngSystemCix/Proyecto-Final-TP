@@ -5,16 +5,16 @@ import pe.edu.utp.util.TextUTP;
 import java.io.IOException;
 
 /**
+ * Esta clase me permite separar las lineas de datos del CSV
  * @author Juan Bladimir Romero Collazos
  */
 
 public class InputData {
     /**
-     * Nos permite Cargar los datos desde un archivo externo
-     * Uso de {@link InputData#loadData(String)}
-     * @param filename
-     * @return La lista de datos
-     * @throws IOException
+     * Nos permite Cargar los datos desde un archivo externo.
+     * @param filename aqui va el nombre del archivo CSV de donde sacaremos los datos.
+     * @return La lista de datos.
+     * @throws IOException Esto me permite controlar los excepciones.
      */
     public static ValidationData [] loadData(String filename) throws IOException{
         // Cargar datos en array String (Autor: Juan Bladimir Romero Collazos)

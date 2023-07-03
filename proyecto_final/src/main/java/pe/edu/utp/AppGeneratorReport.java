@@ -3,6 +3,7 @@ package pe.edu.utp;
 import java.util.Scanner;
 
 /**
+ * Esta clase nos permite generar el reporte ASCII o HTML
  * @author Juan Bladimir Romero Collazos
  */
 
@@ -68,8 +69,8 @@ public class AppGeneratorReport {
         }while (continuar);
     }
     /**
-     * Creacion de la función para poder hacer la pregunta de que tipo de reporte desea el usuario
-     * @return Si la opción es 0 o 1 para mandar un mensaje por consola
+     * Creacion de la función para poder hacer la pregunta de que tipo de reporte desea el usuario.
+     * @return Si la opción es 0 o 1 para mandar un mensaje por consola.
      */
     /* (Autor: Juan Bladimir Romero Collazos)        */
     public static String reportASCIIorHTML5 () {
