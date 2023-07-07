@@ -1,5 +1,7 @@
 package pe.edu.utp;
 
+import java.time.LocalDate;
+
 /**
  * Esta clase nos permite validar los datos
  * @author Juan Bladimir Romero Collazos
@@ -36,6 +38,10 @@ public class ValidationData
         this.magnitud = magnitud;
         this.fechaCorte = fechaCorte;
     }
+
+    public ValidationData(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad, double magnitud, String fechaCorte) {
+    }
+
     // Getters y Setters (Autor: Juan Bladimir Romero Collazos)
 
     /**
