@@ -8,7 +8,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- * Este código permite darle formato a las fechas
+ * Este código permite darle formato a las fechas y a las horas del archivo CSV
  * @author Juan Bladimir Romero Collazos
  * @version 0.0.1V
  */
