@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 public class ValidationData
 {
-    // Constructores (Autor: Juan Bladimir Romero Collazos)
+    // Constructores (Autor: Daniel Ramos Marrufo)
 
     public ValidationData() {
     }
