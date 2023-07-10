@@ -72,7 +72,7 @@ public class AppGeneratorReport {
      * Creacion de la función para poder hacer la pregunta de que tipo de reporte desea el usuario.
      * @return Si la opción es 0 o 1 para mandar un mensaje por consola.
      */
-    /* (Autor: Juan Bladimir Romero Collazos)        */
+    /* (Autor: Hugo Fupuy Chanamé)        */
     public static String reportASCIIorHTML5 () {
         Scanner input = new Scanner(System.in);
         String pregunta = """

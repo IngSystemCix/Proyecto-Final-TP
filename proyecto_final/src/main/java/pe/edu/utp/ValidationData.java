@@ -42,7 +42,7 @@ public class ValidationData
     public ValidationData(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad, double magnitud, String fechaCorte) {
     }
 
-    // Getters y Setters (Autor: Juan Bladimir Romero Collazos)
+    // Getters y Setters (Autor: Daniel Ramos Marrufo)
 
     /**
      * Es un método que nos permite obtener la id del registro.
@@ -172,7 +172,7 @@ public class ValidationData
         this.fechaCorte = fechaCorte;
     }
 
-    // toString (Autor: Juan Bladimir Romero Collazos)
+    // toString (Autor: Daniel Ramos Marrufo)
 
     /**
      * Proporciona una representación personalizada de sus objetos como una cadena de caracteres,
@@ -195,7 +195,7 @@ public class ValidationData
                 '}';
     }
 
-    // Declaración de variables (Autor: Juan Bladimir Romero Collazos)
+    // Declaración de variables (Autor: Daniel Ramos Marrufo)
     /**
      * Declaracion de cada atributo.
      */
