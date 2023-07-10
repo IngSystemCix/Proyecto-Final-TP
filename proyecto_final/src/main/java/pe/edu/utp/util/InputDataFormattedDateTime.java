@@ -22,7 +22,7 @@ public class InputDataFormattedDateTime {
         // Crear un formato de fecha para parsear las fechas UTC
         DateTimeFormatter dftFechaUTC = DateTimeFormatter.ofPattern("yyyyMMdd");
 
-        // Crear un formato de fecha para parsear las fechas UTC
+        // Crear un formato de fecha para parsear las fechas corte
 
         DateTimeFormatter dftFechaCorte = DateTimeFormatter.ofPattern("yyyyddMM");
 
