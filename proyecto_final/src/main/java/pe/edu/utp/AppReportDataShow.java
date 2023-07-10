@@ -4,8 +4,8 @@ import pe.edu.utp.util.InputDataFormattedDateTime;
 import java.io.IOException;
 
 /**
- * Esta clase genera objetos substraidos desde el CSV
- * @author Juan Bladimir Romero Collazos
+ * Esta clase genera objetos substraidos desde el CSV y le da formato a cada columna tanto a fecha y hora.
+ * @author Juan Bladimir Romero Collazos.
  */
 
 public class AppReportDataShow {

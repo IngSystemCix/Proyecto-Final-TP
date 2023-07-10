@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 /**
  * Esta clase nos permite validar los datos
- * @author Juan Bladimir Romero Collazos
+ * @author Daniel Ramos Marrufo.
  */
 
 public class ValidationData

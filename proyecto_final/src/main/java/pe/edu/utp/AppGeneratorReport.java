@@ -3,8 +3,8 @@ package pe.edu.utp;
 import java.util.Scanner;
 
 /**
- * Esta clase nos permite generar el reporte ASCII o HTML
- * @author Juan Bladimir Romero Collazos
+ * Esta clase nos permite generar el reporte ASCII o HTML.
+ * @author Juan Bladimir Romero Collazos, Daniel Ramos Marrufo y Hugo Fupuy Chanamé.
  */
 
 public class AppGeneratorReport {
