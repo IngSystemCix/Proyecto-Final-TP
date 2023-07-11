@@ -39,7 +39,8 @@ public class ValidationData
         this.fechaCorte = fechaCorte;
     }
 
-    public ValidationData(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad, double magnitud, String fechaCorte) {
+    public ValidationData(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad,
+                          double magnitud, String fechaCorte) {
     }
 
     // Getters y Setters (Autor: Daniel Ramos Marrufo)
