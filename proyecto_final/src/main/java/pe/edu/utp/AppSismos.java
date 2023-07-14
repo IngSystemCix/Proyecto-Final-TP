@@ -1,6 +1,6 @@
 package pe.edu.utp;
 import pe.edu.utp.util.FileDeleter;
-import pe.edu.utp.util.IOReportes;
+import pe.edu.utp.util.IOCreateArchive;
 import pe.edu.utp.util.IOSismos;
 import pe.edu.utp.util.TextUTP;
 
@@ -19,12 +19,12 @@ public class AppSismos {
     public static void main (String [] arg) throws IOException{
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        DataSismos[] lista = IOSismos.loadDataSismos(fileName, 1995);
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName, 2000,2002);
         //        for (DataSismos validate : lista) {
         //            System.out.println(validate);
         //        }
-        String reporteHTML = String.valueOf(IOReportes.makeReport(IOReportes.TIPO.HTML5, lista));
-        String archivoJS = String.valueOf(IOReportes.makeJs(IOReportes.NOMBREJS.PORCENTAJES));
+        String reporteHTML = String.valueOf(IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5, lista));
+        String archivoJS = String.valueOf(IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.PORCENTAJES));
         String fileOutHTML = "./src/main/resources/report/demo.html";
         String fileOutJs = "./src/main/resources/report/js/porcentaje.js";
         FileDeleter.deleteFile(fileOutHTML);

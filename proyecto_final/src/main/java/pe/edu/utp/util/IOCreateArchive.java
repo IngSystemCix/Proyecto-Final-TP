@@ -2,7 +2,7 @@ package pe.edu.utp.util;
 
 import pe.edu.utp.DataSismos;
 
-public class IOReportes {
+public class IOCreateArchive {
     public enum TIPO {ASCII, HTML5}
     public enum NOMBREJS {GRAFICOS, PORCENTAJES}
     static int contCoincidencias = 0;
