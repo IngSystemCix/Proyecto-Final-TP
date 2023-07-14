@@ -47,6 +47,7 @@ public class DataSismos
 
     /**
      * Es un método que nos permite obtener la id del registro.
+     *
      * @return Nos devuelve el valor correspondiente del id.
      */
     public long getId() {
@@ -95,6 +96,7 @@ public class DataSismos
 
     /**
      * Es un método que nos permite obtener la latitud.
+     *
      * @return Nos devuelve la latitud.
      */
     public double getLatitud() {
@@ -111,6 +113,7 @@ public class DataSismos
 
     /**
      * Es un método que nos permite obtener la longitud.
+     *
      * @return Nos devuelve la longitud.
      */
     public double getLongitud() {
@@ -127,6 +130,7 @@ public class DataSismos
 
     /**
      * Es un método que nos permite obtener la profundidad.
+     *
      * @return Nos devuelve la profundidad.
      */
     public int getProfundidad() {
@@ -143,6 +147,7 @@ public class DataSismos
 
     /**
      * Es un método que nos permite obtener la magnitud.
+     *
      * @return Nos devuelve la magnitud.
      */
     public double getMagnitud() {
