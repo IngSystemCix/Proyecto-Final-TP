@@ -19,7 +19,7 @@ public class AppSismos {
     public static void main (String [] arg) throws IOException{
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        DataSismos[] lista = IOSismos.loadDataSismos(fileName, 1991);
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName, 1995);
         //        for (DataSismos validate : lista) {
         //            System.out.println(validate);
         //        }

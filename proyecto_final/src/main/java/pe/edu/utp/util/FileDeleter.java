@@ -1,13 +1,9 @@
 package pe.edu.utp.util;
 
-import java.io.*;
-import java.io.BufferedWriter;
-import java.io.IOException;
-
 /**
  * Esta clase lo que permite eliminar archivos para actualizarlos.
  * @author Juan Bladimir Romero Collazos
- * @version 1.0.0
+ * @version 1.0.1
  */
 import java.io.File;
 
