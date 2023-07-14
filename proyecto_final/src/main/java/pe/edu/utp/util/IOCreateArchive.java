@@ -16,7 +16,7 @@ public class IOCreateArchive {
 
     public static StringBuilder makeJs(NOMBREJS nombreArchivoJs) {
         if (nombreArchivoJs == NOMBREJS.PORCENTAJES) {
-            return makeJavaScript();
+            return makeJavaScriptPorcentajes();
         }
         return null;
     }
@@ -41,12 +41,12 @@ public class IOCreateArchive {
               <link rel="stylesheet" href="css/style.css">
               <!-- Favicon -->
               <link rel="icon" href="img/favicon.png" type="image/png">
-              <title>Plantilla de reportes</title>
+              <title>{{titulo}}</title>
             </head>
             <body>
               <!-- Estructura (Creador: Juan Bladimir Romero Collazos) -->
               <!-- Tabla (Creador: Juan Bladimir Romero Collazos) -->
-              <label>REPORTE DE CATALOGO SISMICO 1960-2021 (IGP)</label>
+              <label>REPORTE | CATÁLOGO SÍSMICO (IGP)</label>
               <table>
                 <thead>
                   <tr>
@@ -61,7 +61,7 @@ public class IOCreateArchive {
                   </tr>
                 </thead>
             """;
-        sb.append(header);
+        sb.append(header.replace("{{titulo}}", "REPORTE HTML5"));
 
         String data = """
             <tbody>
@@ -104,7 +104,7 @@ public class IOCreateArchive {
 
           <!-- Scritps (Creador: Juan Bladimir Romero Collazos) -->
           <!-- JS propios -->
-          <script src="js/graficos.js"></script>
+          <script src="js/graficos_demo.js"></script>
           <script src="js/porcentaje.js"></script>
           <!-- CDN JS Bootstrap -->
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js" integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS" crossorigin="anonymous"></script>
@@ -116,7 +116,7 @@ public class IOCreateArchive {
         sb.append(footer.replace("{{numero_coincidencias}}", String.format("%s", contCoincidencias)));
         return sb;
     }
-    private static StringBuilder makeJavaScript() {
+    private static StringBuilder makeJavaScriptPorcentajes() {
         StringBuilder sb = new StringBuilder();
         String js = """
                 // procentajes (Creador: Juan Bladimir Romero Collazos)
@@ -129,6 +129,71 @@ public class IOCreateArchive {
                 porcentajeCelda.textContent = `${porcentaje.toFixed(2)}%`
                 """;
         sb.append(js.replace("{{numero_coincidencias}}", String.format("%s", contCoincidencias)));
+        return sb;
+    }
+
+    private static StringBuilder makeJavaScriptGraficos() {
+        StringBuilder sb = new StringBuilder();
+        String jsHeader = """
+                // Gráficos (Creador: Juan Bladimir Romero Collazos)
+                const getOptionChart3 = () => {
+                 return {
+                   tooltip: {
+                     trigger: 'item'
+                   },
+                   legend: {
+                     top: '5%',
+                     left: 'center'
+                   },
+                   series: [
+                     {
+                       name: 'Access From',
+                       type: 'pie',
+                       radius: ['40%', '70%'],
+                       avoidLabelOverlap: false,
+                       itemStyle: {
+                         borderRadius: 10,
+                         borderColor: '#fff',
+                         borderWidth: 2
+                       },
+                       label: {
+                         show: false,
+                         position: 'center'
+                       },
+                       emphasis: {
+                         label: {
+                           show: true,
+                           fontSize: 40,
+                           fontWeight: 'bold'
+                         }
+                       },
+                       labelLine: {
+                         show: false
+                       },
+                       data: [
+                """;
+        String jsData = """
+                        { value: {{valor}}, name: '{{nombre_etiqueta}}' },
+                """;
+        String jsFooter = """
+                        ]
+                      }
+                    ]
+                  };
+                }
+                const initCharts = () => {
+                  const chart3 = echarts.init(document.getElementById("chart3"));
+                  chart3.setOption(getOptionChart3());
+                };
+                                
+                window.addEventListener('load', () => {
+                  initCharts();
+                });
+                """;
+
+        sb.append(jsHeader);
+        sb.append(jsData);
+        sb.append(jsFooter);
         return sb;
     }
 }
