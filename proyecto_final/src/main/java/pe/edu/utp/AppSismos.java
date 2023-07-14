@@ -1,5 +1,5 @@
 package pe.edu.utp;
-import pe.edu.utp.util.InputDataFormattedDateTime;
+import pe.edu.utp.util.IOSismos;
 
 import java.io.IOException;
 
@@ -8,16 +8,16 @@ import java.io.IOException;
  * @author Juan Bladimir Romero Collazos.
  */
 
-public class AppReportDataShow {
+public class AppSismos {
     /**
      * Nos permite vizualizar cada dato de forma iterativa
      * @throws IOException  Significa que el método puede generar una excepción de entrada y salida.
      */
-    public static void showData() throws IOException{
+    public static void main (String [] arg) throws IOException{
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        ValidationData [] lista = InputDataFormattedDateTime.dateValidateData(fileName, 2000);
-        for (ValidationData validate : lista) {
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName);
+        for (DataSismos validate : lista) {
             System.out.println(validate);
         }
     }

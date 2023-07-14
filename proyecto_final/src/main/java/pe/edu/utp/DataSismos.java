@@ -7,11 +7,11 @@ import java.time.LocalDate;
  * @author Daniel Ramos Marrufo.
  */
 
-public class ValidationData
+public class DataSismos
 {
     // Constructores (Autor: Daniel Ramos Marrufo)
 
-    public ValidationData() {
+    public DataSismos() {
     }
 
     /**
@@ -27,8 +27,8 @@ public class ValidationData
      * @param fechaCorte Es la fecha que se finalizo el analisis de datos.
      */
 
-    public ValidationData(long id, String fechaUTC, String horaUTC, double latitud, double longitud,
-                          int profundidad, double magnitud, String fechaCorte) {
+    public DataSismos(long id, String fechaUTC, String horaUTC, double latitud, double longitud,
+                      int profundidad, double magnitud, String fechaCorte) {
         this.id = id;
         this.fechaUTC = fechaUTC;
         this.horaUTC = horaUTC;
@@ -39,8 +39,8 @@ public class ValidationData
         this.fechaCorte = fechaCorte;
     }
 
-    public ValidationData(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad,
-                          double magnitud, String fechaCorte) {
+    public DataSismos(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad,
+                      double magnitud, String fechaCorte) {
     }
 
     // Getters y Setters (Autor: Daniel Ramos Marrufo)
@@ -184,7 +184,7 @@ public class ValidationData
 
     @Override
     public String toString() {
-        return "ValidationData{" +
+        return "DataSismos{" +
                 "id=" + id +
                 ", fechaUTC='" + fechaUTC + '\'' +
                 ", horaUTC='" + horaUTC + '\'' +

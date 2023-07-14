@@ -4201,7 +4201,7 @@
 								"$ref": "AAAAAAGJRjdBGQe72Mg="
 							},
 							"name": "AppReportDataShow",
-							"documentation": "package pe.edu.utp;\nimport pe.edu.utp.util.InputDataFormattedDateTime;\n\nimport java.io.IOException;",
+							"documentation": "package pe.edu.utp;\nimport pe.edu.utp.util.IOSismos;\n\nimport java.io.IOException;",
 							"operations": [
 								{
 									"_type": "UMLOperation",
@@ -4273,7 +4273,7 @@
 										"$ref": "AAAAAAGJRjWYaPuP7uQ="
 									},
 									"name": "InputDataFormattedDateTime",
-									"documentation": "package pe.edu.utp.util;\n\nimport pe.edu.utp.ValidationData;\n\nimport java.io.IOException;\nimport java.time.LocalDate;\nimport java.time.LocalTime;\nimport java.time.format.DateTimeFormatter;",
+									"documentation": "package pe.edu.utp.util;\n\nimport pe.edu.utp.DataSismos;\n\nimport java.io.IOException;\nimport java.time.LocalDate;\nimport java.time.LocalTime;\nimport java.time.format.DateTimeFormatter;",
 									"operations": [
 										{
 											"_type": "UMLOperation",

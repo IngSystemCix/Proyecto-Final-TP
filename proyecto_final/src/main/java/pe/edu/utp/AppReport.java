@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author Juan Bladimir Romero Collazos, Daniel Ramos Marrufo y Hugo Fupuy Chanamé.
  */
 
-public class AppGeneratorReport {
+public class AppReport {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String menu = """
