@@ -19,7 +19,7 @@ public class IOSismos {
     /**
      * Este método permite filtrar todos los datos de la data.
      * @param filename nombre del archivo.
-     * @return va retornar la lista con todos los datos.
+     * @return va a retornar la lista con todos los datos.
      * @throws IOException Controla las excepciones.
      */
     public static DataSismos[] loadDataSismos(String filename) throws IOException {

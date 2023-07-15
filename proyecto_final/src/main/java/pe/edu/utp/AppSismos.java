@@ -1,9 +1,6 @@
 package pe.edu.utp;
 
-import pe.edu.utp.util.FileDeleter;
-import pe.edu.utp.util.IOCreateArchive;
-import pe.edu.utp.util.IOSismos;
-import pe.edu.utp.util.TextUTP;
+import pe.edu.utp.util.*;
 
 import java.io.IOException;
 
@@ -20,7 +17,7 @@ public class AppSismos {
     public static void main(String[] args) throws IOException {
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        DataSismos[] lista = IOSismos.loadDataSismos(fileName, "ENERO", 7.0, 8.0, 1960);
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName, "ENERO", Integer.parseInt(ValidateDateYear.validateYear(1960)));
 
         String reporteHTML = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5, lista).toString();
         String reporteHTMLGraficos = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5GRAFICOS, lista).toString();
@@ -41,7 +38,7 @@ public class AppSismos {
         try {
             TextUTP.append(archivoJSPorcentaje, fileOutJsPorcentaje);
             TextUTP.append(archivoJSGraficos, fileOutJsGrafico);
-            System.out.println("Archivo creado exitosamente.");
+            System.out.println("Los archivos fueron creados exitosamente.");
         } catch (IOException e) {
             System.out.println("Error al crear el archivo: " + e.getMessage());
         }
