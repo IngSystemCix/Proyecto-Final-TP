@@ -1,11 +1,12 @@
 package pe.edu.utp.util;
 
+import java.io.File;
+
 /**
  * Esta clase lo que permite eliminar archivos para actualizarlos.
  * @author Juan Bladimir Romero Collazos
  * @version 1.0.1
  */
-import java.io.File;
 
 public class FileDeleter {
     /**

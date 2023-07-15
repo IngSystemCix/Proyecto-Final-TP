@@ -27,7 +27,7 @@ public class IOSismos {
     }
 
     /**
-     * Este metodo nos permite filtrar everything related to this year.
+     * Este método nos permite filtrar un año en específico.
      * @param filename es el nombre del archivo.
      * @param yearUTC es el año que se toma de referencia para el filtrado.
      * @return va a retornar la lista de los datos filtrados.
@@ -265,6 +265,16 @@ public class IOSismos {
         return lista;
     }
 
+    /**
+     * Este método nos permite filtrar por mes, año y un rango de magnitudes.
+     * @param filename el nombre del archivo.
+     * @param mes es el mes ej: (enero, febrero, marzo, ...) lo vuelve mayúscula aun que este diferente.
+     * @param magnitudInicial Es la referencia inicial de la magnitud.
+     * @param magnitudFinal Es la referencia final de la magnitud.
+     * @param yearUTC es el año que sucedió el evento sísmico.
+     * @return retorna el valor de la lista.
+     * @throws IOException
+     */
     public static DataSismos[] loadDataSismos(String filename, String mes, double magnitudInicial,
                                               double magnitudFinal, int yearUTC) throws IOException {
         String[] lineas = TextUTP.readlinesAsArray(filename, TextUTP.OS.WINDOWS);
@@ -342,7 +352,42 @@ public class IOSismos {
         return lista;
     }
 
+    /**
+     * Este método permite que solo filtre magnitudes nada más.
+     * @param filename nombre del archivo.
+     * @return devuelve la lista de solo magnitudes.
+     * @throws IOException Controla las excepciones.
+     */
+    public static DataSismos[] loadDataMagnitudes(String filename) throws IOException {
+        String[] lineas = TextUTP.readlinesAsArray(filename, TextUTP.OS.WINDOWS);
+        if (lineas.length <= 1) {
+            return new DataSismos[0];
+        }
+        DataSismos[] lista = new DataSismos[lineas.length - 1];
+        int nd = 0;
 
+        for (int i = 1; i < lineas.length; i++) {
+            String linea = lineas[i];
+            String[] fragmentos = linea.split(",");
+
+            double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
+            lista[nd++] = new DataSismos(magnitud);
+        }
+
+        if (nd < lista.length) {
+            DataSismos[] validDataArray = new DataSismos[nd];
+            System.arraycopy(lista, 0, validDataArray, 0, nd);
+            lista = validDataArray;
+        }
+
+        return lista;
+    }
+
+    /**
+     * Este método hace una limpieza a la cadena de texto.
+     * @param input Es la entrada del dato.
+     * @return devuelve la cadena ya limpia.
+     */
     private static String cleanString(String input) {
         return input.replaceAll("\"", "").trim();
     }

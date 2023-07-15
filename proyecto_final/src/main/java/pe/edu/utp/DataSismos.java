@@ -15,6 +15,14 @@ public class DataSismos
     }
 
     /**
+     * Es un constructor que solo obtine manitudes.
+     * @param magnitud Es la magnitud del sismo.
+     */
+    public DataSismos(double magnitud) {
+        this.magnitud = magnitud;
+    }
+
+    /**
      * Este constructor nos permite almacenar la data
      * @param id Es el identificador de cada dato
      * @param fechaUTC Es la fecha coordinada, que se basa en el tiempo atómico internacional.
@@ -39,6 +47,18 @@ public class DataSismos
         this.fechaCorte = fechaCorte;
     }
 
+    /**
+     * Este constructor es especial para darle un parseo a las fechas y horas.
+     * @param id Es el identificador de cada dato
+     * @param parse Es la fecha formateada.
+     * @param horaUTC Es la hora universal coordinada, que se basa en el tiempo atómico internacional.
+     * @param latitud Es la distancia angular entre la línea ecuatoria.
+     * @param longitud La distancia angular entre un punto cualquiera del globo terráqueo y el meridiano cero.
+     * @param profundidad  la distancia de un elemento con respecto a un plano horizontal de referencia cuando
+     *                      dicho elemento se encuentra por debajo de la referencia.
+     * @param magnitud Es un valor de medida según la unidad usada.
+     * @param fechaCorte Es la fecha que se finalizo el analisis de datos.
+     */
     public DataSismos(long id, LocalDate parse, String horaUTC, double latitud, double longitud, int profundidad,
                       double magnitud, String fechaCorte) {
     }
