@@ -4,6 +4,12 @@ import pe.edu.utp.DataSismos;
 
 import java.io.IOException;
 
+/**
+ * Esta clase crea el texto del archivo
+ * @author Juan Bladimir Romero Collazos
+ * @version 1.0.0
+ */
+
 public class IOCreateArchive {
     public enum TIPO {ASCII, HTML5, HTML5GRAFICOS}
     public enum NOMBREJS {GRAFICOS, PORCENTAJES}
@@ -41,7 +47,7 @@ public class IOCreateArchive {
     }
 
     /**
-     * Este Este método de tipo StringBuilder permite generar el reporte ASCII.
+     * Este método de tipo StringBuilder permite generar el reporte ASCII.
      * @param lista es la lista de todos los sismos.
      * @return el reporte ASCII.
      */

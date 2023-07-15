@@ -11,7 +11,7 @@ import java.time.format.DateTimeParseException;
 /**
  * Esta clase proporciona funcionalidades para cargar y formatear datos de sismos desde un archivo CSV.
  * También ofrece algunas funcionalidades adicionales.
- * @author Juan Bladimir Romero Collazos.
+ * @author Juan Bladimir Romero Collazos, Daniel Ramos Marrufo y Hugo Fupuy Chaname.
  * @version 1.0.1
  */
 
