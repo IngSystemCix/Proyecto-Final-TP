@@ -51,8 +51,33 @@ public class IOCreateArchive {
      * @param lista es la lista de todos los sismos.
      * @return el reporte ASCII.
      */
+
     private static StringBuilder makeASCIIReport(DataSismos[] lista) {
-        return new StringBuilder("d"); // falta hacerlo
+        StringBuilder sb = new StringBuilder();
+        String header = """
+            +_____________________________________________________________________________________________________________+
+            |                                   REPORTE | CATALOGO SISMICO (IGP) | ASCII                                  |
+            +_____________________________________________________________________________________________________________+
+            |       ID      |  FECHA_UTC  |  HORA_UTC  |   LATITUD  |  LONGITUD  | PROFUNDIDAD | MAGNITUD | FECHA_CORTE   |
+            +---------------+-------------+------------+------------+------------+-------------+----------+---------------+
+            """;
+        String data = """
+            | %-13d |  %-8s |  %-6s  |  %-8.4f  |  %-8.4f  |  %-9s  |  %-6.2f  |   %-8s  |
+            +---------------+-------------+------------+------------+------------+-------------+----------+---------------+
+            """;
+        String footer = """
+            | Coincidencias |  %-10d |
+            +---------------+-------------+
+            """;
+        sb.append(header);
+        for (DataSismos dataSismos : lista) {
+            String strData = String.format(data, dataSismos.getId(), dataSismos.getFechaUTC(),
+                    dataSismos.getHoraUTC(), dataSismos.getLatitud(), dataSismos.getLongitud(),
+                    dataSismos.getProfundidad(), dataSismos.getMagnitud(), dataSismos.getFechaCorte());
+            sb.append(strData);
+        }
+        sb.append(String.format(footer, lista.length));
+        return sb;
     }
 
     /**

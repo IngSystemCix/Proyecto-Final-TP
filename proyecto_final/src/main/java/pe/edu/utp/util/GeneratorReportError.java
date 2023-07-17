@@ -1,8 +1,6 @@
 package pe.edu.utp.util;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
 /**
@@ -11,5 +9,11 @@ import java.time.format.DateTimeFormatter;
  * @version 1.0.0
  */
 public class GeneratorReportError {
-
+    protected static void capturarErrores (String error) {
+        LocalDateTime ldt = LocalDateTime.now();
+        String path = "./src/main/resources/error/error_";
+        String fechaError = ldt.format(DateTimeFormatter.ofPattern("dd-MM-yyyy HH*mm*ss"));
+        String extension = ".log";
+        String pathFile = path.concat(fechaError).concat(extension);
+    }
 }
