@@ -35,7 +35,6 @@ public class IOCreateArchive {
      * Este método StringBuilder permite que elija el tipo de creación del *.js.
      * @param nombreArchivoJs es un enum para verificar que *.js esta creando.
      * @return cualquiera de los dos nombres de archivo *.js.
-     * @throws IOException
      */
     public static StringBuilder makeJs(NOMBREJS nombreArchivoJs) throws IOException {
         if (nombreArchivoJs == NOMBREJS.PORCENTAJES) {

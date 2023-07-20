@@ -55,24 +55,27 @@ public class IOSismos {
             LocalDate fechaUtc;
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
             LocalDate fechaFinalizado;
             try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
             LocalTime horaUTC;
             try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -133,24 +136,27 @@ public class IOSismos {
             LocalDate fechaUtc;
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
             LocalDate fechaFinalizado;
             try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
             LocalTime horaUTC;
             try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
-            } catch (java.time.format.DateTimeParseException e) {
-                System.err.println("Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -216,7 +222,8 @@ public class IOSismos {
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString);
+                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -224,7 +231,8 @@ public class IOSismos {
             try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString);
+                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -232,7 +240,8 @@ public class IOSismos {
             try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString);
+                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -302,7 +311,8 @@ public class IOSismos {
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString);
+                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -310,7 +320,8 @@ public class IOSismos {
             try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString);
+                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 
@@ -318,7 +329,8 @@ public class IOSismos {
             try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                System.err.println("Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString);
+                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                 continue;
             }
 

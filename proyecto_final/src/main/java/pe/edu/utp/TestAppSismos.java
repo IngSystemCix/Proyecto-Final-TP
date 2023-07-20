@@ -9,7 +9,7 @@ import java.io.IOException;
  * @author Juan Bladimir Romero Collazos, Daniel Ramos Marrufo.
  */
 
-public class AppSismos {
+public class TestAppSismos {
     /**
      * Nos permite visualizar cada dato de forma iterativa.
      * @throws IOException  Significa que el método puede generar una excepción de entrada y salida.
