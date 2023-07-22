@@ -17,8 +17,9 @@ public class TestAppSismos {
     public static void main(String[] args) throws IOException {
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        DataSismos[] lista = IOSismos.loadDataSismos(fileName, Integer.parseInt(ValidateDateYear.validateYear(1960)));
-
+        int year = 1960;
+        int validate = (Boolean.parseBoolean(ValidateDateYear.validateYear(year))) ? year : 0;
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName, validate);
         String reporteHTML = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5, lista).toString();
         String reporteHTMLGraficos = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5GRAFICOS, lista).toString();
         String archivoJSPorcentaje = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.PORCENTAJES).toString();
@@ -52,7 +53,7 @@ public class TestAppSismos {
             System.out.println("El archivo fue creado exitosamente.");
         } catch (IOException e) {
             String msg = "Error al crear el archivo: " + e.getMessage();
-
+            GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
         }
 
         try {

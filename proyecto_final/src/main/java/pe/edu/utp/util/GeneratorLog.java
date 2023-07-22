@@ -24,11 +24,11 @@ public class GeneratorLog {
     public static void catchLog (String msg, LEVEL level) throws IOException {
         LocalDateTime ldt = LocalDateTime.now();
         String path = ".\\src\\main\\resources\\log\\CrashReports_";
-        String timeEvent = ldt.format(DateTimeFormatter.ofPattern("yyyy_MM_dd__hh_mm"));
-        String dateTimeEvent = ldt.format(DateTimeFormatter.ofPattern("yyyy/MM/dd hh:mm:ss"));
+        String timeEvent = ldt.format(DateTimeFormatter.ofPattern("yyyy_MM_dd__HH_mm"));
+        String dateTimeEvent = ldt.format(DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss"));
         String extension = ".log";
         String pathFile = path.concat(timeEvent).concat(extension);
-        String event = String.format("|%22s\t  |\t%10s\t  |\t%57s\t\t|\r\n", dateTimeEvent, level, msg);
+        String event = String.format("|\t[%20s]\t  |\t%10s\t  |\t%57s\t\t|\r\n", dateTimeEvent, level, msg);
         TextUTP.append(event, pathFile);
     }
 }
