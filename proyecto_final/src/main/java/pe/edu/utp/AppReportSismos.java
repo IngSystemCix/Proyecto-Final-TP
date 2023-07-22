@@ -39,7 +39,6 @@ public class AppReportSismos {
                 }
                 case "B" -> {
                     // Configuración de tu la opción "B" (Autor: )
-                    // Función para validar que opción de reporte (Autor: Juan Bladimir Romero Collazos)
                 }
                 case "C" -> {
                     // Configuración de tu la opción "C" (Autor: )
