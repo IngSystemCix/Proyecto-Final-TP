@@ -16,7 +16,7 @@ public class DetectMonth {
     protected static int validationMonth (String mes) throws IllegalArgumentException{
 
         int valueMonth = 0;
-        switch (mes) {
+        switch (mes.toUpperCase()) {
             case "ENERO" -> valueMonth = 1;
             case "FEBRERO" -> valueMonth = 2;
             case "MARZO" -> valueMonth = 3;

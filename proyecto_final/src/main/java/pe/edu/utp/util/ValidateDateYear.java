@@ -6,6 +6,6 @@ package pe.edu.utp.util;
  */
 public class ValidateDateYear {
     public static String validateYear (int yearUTC) {
-        return (2021 >= yearUTC && yearUTC >= 1960) ? String.valueOf(yearUTC) : "Año errone";
+        return (2021 >= yearUTC && yearUTC >= 1960) ? "true" : "false";
     }
 }

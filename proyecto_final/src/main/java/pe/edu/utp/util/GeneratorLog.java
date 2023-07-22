@@ -11,7 +11,7 @@ import java.time.format.DateTimeFormatter;
  */
 public class GeneratorLog {
     public enum LEVEL {DEBUG, INFO, WARN, ERROR, FATAL}
-    protected static void catchLog (String msg, LEVEL level) throws IOException {
+    public static void catchLog (String msg, LEVEL level) throws IOException {
         LocalDateTime ldt = LocalDateTime.now();
         String path = ".\\src\\main\\resources\\log\\CrashReports_";
         String timeEvent = ldt.format(DateTimeFormatter.ofPattern("yyyy_MM_dd__hh_mm"));

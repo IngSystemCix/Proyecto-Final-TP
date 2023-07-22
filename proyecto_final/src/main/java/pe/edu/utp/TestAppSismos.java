@@ -51,7 +51,8 @@ public class TestAppSismos {
             TextUTP.append(archivoJSPorcentaje, fileOutJsPorcentaje);
             System.out.println("El archivo fue creado exitosamente.");
         } catch (IOException e) {
-            System.out.println("Error al crear el archivo: " + e.getMessage());
+            String msg = "Error al crear el archivo: " + e.getMessage();
+
         }
 
         try {
