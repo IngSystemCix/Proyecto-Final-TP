@@ -10,6 +10,16 @@ import java.time.format.DateTimeFormatter;
  * @version 1.0.0
  */
 public class GeneratorLog {
+    /*
+    * DEBUG : Trazas de la aplicación en depuración.
+    * INFO : Información.
+    * WARN : Advertencia (posible fallo).
+    * ERROR : Error del sistema.
+    * FATAL : Error bloqueante que puede tener efectos secundarios en el sistema
+    *         (por ejemplo, no poder conectarnos a una base de datos generará probablemente
+    *         un bloqueo de muchas funcionalidades del sistema).
+     */
+
     public enum LEVEL {DEBUG, INFO, WARN, ERROR, FATAL}
     public static void catchLog (String msg, LEVEL level) throws IOException {
         LocalDateTime ldt = LocalDateTime.now();
