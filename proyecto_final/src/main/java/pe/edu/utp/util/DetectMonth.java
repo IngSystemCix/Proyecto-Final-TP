@@ -1,5 +1,8 @@
 package pe.edu.utp.util;
 
+import java.io.IOException;
+import java.time.LocalDate;
+
 /**
  * Esta clase permite poner el nombre del mes en el idioma español y asignarle un valor numérico.
  * @author Juan Bladmir Romero Collazos.
@@ -13,8 +16,8 @@ public class DetectMonth {
      * @return retorna el valor numérico del mes.
      * @throws IllegalArgumentException esto es porque estoy manejando excisiones.
      */
-    protected static int validationMonth (String mes) throws IllegalArgumentException{
-
+    protected static int validationMonth (String mes) throws IllegalArgumentException, IOException {
+        String msg = "";
         int valueMonth = 0;
         switch (mes.toUpperCase()) {
             case "ENERO" -> valueMonth = 1;
@@ -29,8 +32,40 @@ public class DetectMonth {
             case "OCTUBRE" -> valueMonth = 10;
             case "NOVIEMBRE" -> valueMonth = 11;
             case "DICIEMBRE" -> valueMonth = 12;
-            default -> throw new IllegalArgumentException("Mes ingresado incorrecto");
+            default -> {
+                valueMonth = 1;
+                msg = "Mes ingresado incorrecto";
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+            }
         }
         return valueMonth;
+    }
+
+    protected static String monthToNum (int numMonth) throws IOException {
+        String catchMonth;
+        switch (numMonth) {
+            case 1 -> catchMonth = "ENERO";
+            case 2 -> catchMonth = "FEBRERO";
+            case 3 -> catchMonth = "MARZO";
+            case 4 -> catchMonth = "ABRIL";
+            case 5 -> catchMonth = "MAYO";
+            case 6 -> catchMonth = "JUNIO";
+            case 7 -> catchMonth = "JULIO";
+            case 8 -> catchMonth = "AGOSTO";
+            case 9 -> catchMonth = "SEPTIEMBRE";
+            case 10 -> catchMonth = "OCTUBRE";
+            case 11 -> catchMonth = "NOVIEMBRE";
+            case 12 -> catchMonth = "DICIEMBRE";
+            default -> {
+                catchMonth = "";
+                String msg = "Número de mes erroneo";
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+            }
+        }
+        return catchMonth;
+    }
+
+    public static boolean validationMonthTrueFalse(String month) throws IOException {
+        return month.toUpperCase().equals(monthToNum(validationMonth(month)));
     }
 }

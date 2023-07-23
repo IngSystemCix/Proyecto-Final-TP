@@ -282,7 +282,6 @@ public class IOSismos {
      * @param magnitudFinal Es la referencia final de la magnitud.
      * @param yearUTC es el año que sucedió el evento sísmico.
      * @return retorna el valor de la lista.
-     * @throws IOException
      */
     public static DataSismos[] loadDataSismos(String filename, String mes, double magnitudInicial,
                                               double magnitudFinal, int yearUTC) throws IOException {
@@ -345,6 +344,84 @@ public class IOSismos {
                 double latitud = Double.parseDouble(cleanString(fragmentos[3]));
                 double longitud = Double.parseDouble(cleanString(fragmentos[4]));
                 int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
+
+                String formattedFechaUtc = fechaUtc.format(outputDft);
+                String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
+                String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+
+                lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
+                        longitud, profundidad, magnitud, formattedFechaFinalizado);
+            }
+        }
+
+        if (nd < lista.length) {
+            DataSismos[] validDataArray = new DataSismos[nd];
+            System.arraycopy(lista, 0, validDataArray, 0, nd);
+            lista = validDataArray;
+        }
+
+        return lista;
+    }
+
+    public static DataSismos[] loadDataSismos(String filename,int day ,String mes, int yearUTC) throws IOException {
+        String[] lineas = TextUTP.readlinesAsArray(filename, TextUTP.OS.WINDOWS);
+        if (lineas.length <= 1) {
+            return new DataSismos[0];
+        }
+        DataSismos[] lista = new DataSismos[lineas.length - 1];
+        int nd = 0;
+
+        DateTimeFormatter dftFechaUTC = DateTimeFormatter.ofPattern("yyyyMMdd");
+        DateTimeFormatter dftFechaCorte = DateTimeFormatter.ofPattern("yyyyddMM");
+        DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
+        DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+
+        for (int i = 1; i < lineas.length; i++) {
+            String linea = lineas[i];
+            String[] fragmentos = linea.split(",");
+
+            String fechaUtcString = cleanString(fragmentos[1]);
+            String fechaCorteString = cleanString(fragmentos[7]);
+            String horaUtcString = cleanString(fragmentos[2]);
+
+            LocalDate fechaUtc;
+            try {
+                fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                continue;
+            }
+
+            LocalDate fechaFinalizado;
+            try {
+                fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                continue;
+            }
+
+            LocalTime horaUTC;
+            try {
+                horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
+            } catch (DateTimeParseException e) {
+                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                continue;
+            }
+
+            int valorMes = DetectMonth.validationMonth(mes);
+
+            if (31 >= day && day > 0 && yearUTC >= 1960 && fechaUtc.getYear() == yearUTC
+                    && fechaUtc.getMonthValue() == valorMes &&fechaUtc.getDayOfMonth() == day) {
+
+                long id = Long.parseLong(cleanString(fragmentos[0]));
+                double latitud = Double.parseDouble(cleanString(fragmentos[3]));
+                double longitud = Double.parseDouble(cleanString(fragmentos[4]));
+                int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
+                double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
                 String formattedFechaUtc = fechaUtc.format(outputDft);
                 String formattedFechaFinalizado = fechaFinalizado.format(outputDft);

@@ -1,0 +1,1 @@
+Esta carpeta almacena los DEBUG, ERROR, FALTAL, INFO y WARN

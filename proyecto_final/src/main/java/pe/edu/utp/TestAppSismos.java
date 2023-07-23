@@ -17,9 +17,11 @@ public class TestAppSismos {
     public static void main(String[] args) throws IOException {
         // Este código nos permite visualizar los datos (Autor: Juan Bladimir Romero Collazos)
         String fileName = "./src/main/resources/data.csv";
-        int year = 1960;
+        int day = 24;
+        int year = 2021;
+        String month = "noviembre";
         int validate = (Boolean.parseBoolean(ValidateDateYear.validateYear(year))) ? year : 0;
-        DataSismos[] lista = IOSismos.loadDataSismos(fileName, validate);
+        DataSismos[] lista = IOSismos.loadDataSismos(fileName, day, month, validate);
         String reporteHTML = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5, lista).toString();
         String reporteHTMLGraficos = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5GRAFICOS, lista).toString();
         String archivoJSPorcentaje = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.PORCENTAJES).toString();
