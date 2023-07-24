@@ -1,7 +1,6 @@
 package pe.edu.utp.util;
 
 import java.io.IOException;
-import java.time.LocalDate;
 
 /**
  * Esta clase permite poner el nombre del mes en el idioma español y asignarle un valor numérico.
@@ -66,6 +65,6 @@ public class DetectMonth {
     }
 
     public static boolean validationMonthTrueFalse(String month) throws IOException {
-        return month.toUpperCase().equals(monthToNum(validationMonth(month)));
+        return !month.toUpperCase().equals(monthToNum(validationMonth(month)));
     }
 }

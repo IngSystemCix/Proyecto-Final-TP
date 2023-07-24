@@ -117,7 +117,7 @@ public class AppReportSismos {
                     do {
                         System.out.println("Ingresa el mes: ");
                         month = input.nextLine();
-                        continuar = !DetectMonth.validationMonthTrueFalse(month);
+                        continuar = DetectMonth.validationMonthTrueFalse(month);
                     }while (continuar);
 
                     do {
@@ -177,7 +177,7 @@ public class AppReportSismos {
                     do {
                         System.out.println("Ingresa el mes: ");
                         month = input.nextLine();
-                        continuar = !DetectMonth.validationMonthTrueFalse(month);
+                        continuar = DetectMonth.validationMonthTrueFalse(month);
                     }while (continuar);
                     do {
                         System.out.println(preguntaASCIIOrHTML5);
@@ -230,7 +230,7 @@ public class AppReportSismos {
                     do {
                         System.out.println("Ingresa el mes: ");
                         month = input.nextLine();
-                        continuar = !DetectMonth.validationMonthTrueFalse(month);
+                        continuar = DetectMonth.validationMonthTrueFalse(month);
                     }while (continuar);
                     do {
                         System.out.println(preguntaASCIIOrHTML5);
@@ -346,6 +346,6 @@ public class AppReportSismos {
                 }
                 default -> System.out.println("Usted no a ingresado una opción valida vuelva a intentarlo nuevamente");
             }
-        }while (continuar);
+        }while (!continuar);
     }
 }

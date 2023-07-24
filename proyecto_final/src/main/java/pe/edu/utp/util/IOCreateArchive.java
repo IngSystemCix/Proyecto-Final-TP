@@ -306,7 +306,7 @@ public class IOCreateArchive {
      * @return El archivo *.js.
      * @throws IOException Controla las exxcepciones.
      */
-    public static StringBuilder makeJavaScriptGraficos() throws IOException {
+    private static StringBuilder makeJavaScriptGraficos() throws IOException {
         StringBuilder sb = new StringBuilder();
         String jsHeader = """
                 const getOptionChart3 = () => {
