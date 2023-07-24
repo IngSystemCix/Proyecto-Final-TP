@@ -21,6 +21,12 @@ public class GeneratorLog {
      */
 
     public enum LEVEL {DEBUG, INFO, WARN, ERROR, FATAL}
+
+    /**
+     * Este método nos permite crear archivos *.log.
+     * @param msg Este es el mensaje que se mostrara.
+     * @param level Este es el nivel de log que se está presentando.
+     */
     public static void catchLog (String msg, LEVEL level) throws IOException {
         switch (level) {
             case DEBUG -> {

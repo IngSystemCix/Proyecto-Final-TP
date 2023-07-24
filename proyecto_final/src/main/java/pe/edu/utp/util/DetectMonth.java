@@ -40,6 +40,11 @@ public class DetectMonth {
         return valueMonth;
     }
 
+    /**
+     * Este método te devulve el nombre del mes.
+     * @param numMonth Se ingresa el número del mes.
+     * @return Retorna el nombre del mes
+     */
     protected static String monthToNum (int numMonth) throws IOException {
         String catchMonth;
         switch (numMonth) {
@@ -64,6 +69,11 @@ public class DetectMonth {
         return catchMonth;
     }
 
+    /**
+     * Este método permite verificar si un mes existe.
+     * @param month El nombre del mes a validar.
+     * @return Un valor true (si el mes existe) o false (si el mes no existe).
+     */
     public static boolean validationMonthTrueFalse(String month) throws IOException {
         return !month.toUpperCase().equals(monthToNum(validationMonth(month)));
     }
