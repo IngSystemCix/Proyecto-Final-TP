@@ -342,7 +342,7 @@ public class AppReportSismos {
                 }
                 case "F" -> {
                     System.out.println("Gracias por usar el programa");
-                    continuar = false; // Salir del programa
+                    continuar = true; // Salir del programa
                 }
                 default -> System.out.println("Usted no a ingresado una opción valida vuelva a intentarlo nuevamente");
             }
