@@ -170,9 +170,9 @@ public class AppReportSismos {
                         System.out.println("Ingrese el año que deseas filtrar: ");
                         year = input.nextInt();input.nextLine();
                         System.out.println("Ingrese la primera magnitud que desea que comience a filtrar: ");
-                        mag = input.nextInt(); input.nextLine();
+                        mag = input.nextDouble(); input.nextLine();
                         System.out.println("Ingrese la segunda magnitud que desea que termine de filtrar: ");
-                        mag1 = input.nextInt(); input.nextLine();
+                        mag1 = input.nextDouble(); input.nextLine();
                     } while (!Boolean.parseBoolean(ValidateDateYear.validateYear(year)));
                     do {
                         System.out.println("Ingresa el mes: ");
