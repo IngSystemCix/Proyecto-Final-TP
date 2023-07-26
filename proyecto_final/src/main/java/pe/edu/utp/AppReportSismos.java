@@ -19,7 +19,7 @@ public class AppReportSismos {
         double mag1;
         String month;
         int day;
-        boolean breakProgress = false;
+        boolean breakProgress = true;
         String fileName = "./src/main/resources/data.csv";
         String fileOutHTML = "./src/main/resources/report/demo.html";
         String fileOutJsPorcentaje = "./src/main/resources/report/js/porcentaje.js";
@@ -70,6 +70,7 @@ public class AppReportSismos {
                                         ValidateDateYear.validate1(year1));
                                 String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
                                 System.out.println(reporteASCII);
+                                continuar = continurProgram ();
                             }
                             case 1 -> {
                                 breakProgress = false;
@@ -97,6 +98,7 @@ public class AppReportSismos {
                                     String msg = "Error al crear el archivo: " + e.getMessage();
                                     GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                                 }
+                                continuar = continurProgram ();
                             }
                             default -> {
                                 System.out.println("Opción incorrecta, vuelva a intentarlo...");
@@ -131,6 +133,7 @@ public class AppReportSismos {
                                         ValidateDateYear.validate(year));
                                 String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
                                 System.out.println(reporteASCII);
+                                continuar = continurProgram ();
                             }case 1 -> {
                                 breakProgress = false;
                                 System.out.println("Creando Reporte HTML5:");
@@ -156,6 +159,7 @@ public class AppReportSismos {
                                     String msg = "Error al crear el archivo: " + e.getMessage();
                                     GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                                 }
+                                continuar = continurProgram ();
                             }
                             default -> {
                                 System.out.println("Opción incorrecta, vuelva a intentarlo...");
@@ -189,6 +193,7 @@ public class AppReportSismos {
                                         ValidateDateYear.validate(year));
                                 String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
                                 System.out.println(reporteASCII);
+                                continuar = continurProgram ();
                             }case 1 -> {
                                 System.out.println("Creando Reporte HTML5: ");
                                 DataSismos[] lista = IOSismos.loadDataSismos(fileName,month, mag, mag1,
@@ -212,6 +217,7 @@ public class AppReportSismos {
                                     String msg = "Error al crear el archivo: " + e.getMessage();
                                     GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                                 }
+                                continuar = continurProgram ();
                             }default -> {
                                 System.out.println("Opción incorrecta, vuelva a intentarlo...");
                                 breakProgress = true;
@@ -242,6 +248,7 @@ public class AppReportSismos {
                                 DataSismos[] lista = IOSismos.loadDataSismos(fileName, day, month, year);
                                 String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
                                 System.out.println(reporteASCII);
+                                continuar = continurProgram ();
                             }case 1 -> {
                                 breakProgress = false;
                                 System.out.println("Creando Reporte HTML5: ");
@@ -266,6 +273,7 @@ public class AppReportSismos {
                                     String msg = "Error al crear el archivo: " + e.getMessage();
                                     GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
                                 }
+                                continuar = continurProgram ();
                             }
                             default -> {
                                 System.out.println("Opción incorrecta, vuelva a intentarlo...");
@@ -277,75 +285,93 @@ public class AppReportSismos {
                 case "E" -> {
                     // Configuración de tu la opción "E" (Autor: Hugo Fupuy Chanamé)
                     do {
-                        System.out.println("Ingrese el primer año de deseas que comience a filtrar: ");
+                        System.out.println("Ingrese el año que deseas que comience a filtrar: ");
                         year = input.nextInt();input.nextLine();
-                        System.out.println("Ingrese el segundo año de deseas que termine de filtrar: ");
-                        year1 = input.nextInt(); input.nextLine();
-                    } while (Boolean.parseBoolean(ValidateDateYear.validateYear(ValidateDateYear.validate(year)
-                            + ValidateDateYear.validate1(year1)))) ;
-                    do {
-                        System.out.println(preguntaASCIIOrHTML5);
-                        int rpta1 = input.nextInt();
-                        input.nextLine();
-                        switch (rpta1) {
-                            case 0 -> {
-                                breakProgress = false;
-                                System.out.println("Creando reporte ASCII: ");
-                                DataSismos[] lista = IOSismos.loadDataSismos(fileName, ValidateDateYear.validate(year),
-                                        ValidateDateYear.validate1(year1));
-                                String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
-                                System.out.println(reporteASCII);
-                            }
-                            case 1 -> {
-                                breakProgress = false;
-                                System.out.println("Creando Reporte HTML5: ");
-                                DataSismos[] lista = IOSismos.loadDataSismos(fileName, ValidateDateYear.validate(year),
-                                        ValidateDateYear.validate1(year1));
-                                String reporteHTMLGraficos = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5GRAFICOS, lista).toString();
-                                String archivoJSPorcentaje = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.PORCENTAJES).toString();
-                                String archivoJSGraficos = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.GRAFICOS).toString();
-                                FileDeleter.deleteFile(fileOutJsPorcentaje);
-                                FileDeleter.deleteFile(fileOutHTMLGraficos);
-                                FileDeleter.deleteFile(fileOutJsGrafico);
-                                try {
-                                    TextUTP.append(reporteHTMLGraficos, fileOutHTMLGraficos);
-                                    System.out.println("El archivo fue creado exitosamente.");
-                                } catch (IOException e) {
-                                    String msg = "Error al crear el archivo: " + e.getMessage();
-                                    GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                                }
-
-                                try {
-                                    TextUTP.append(archivoJSPorcentaje, fileOutJsPorcentaje);
-                                    System.out.println("El archivo fue creado exitosamente.");
-                                } catch (IOException e) {
-                                    String msg = "Error al crear el archivo: " + e.getMessage();
-                                    GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                                }
-
-                                try {
-                                    TextUTP.append(archivoJSGraficos, fileOutJsGrafico);
-                                    System.out.println("El archivo fue creado exitosamente.");
-                                } catch (IOException e) {
-                                    String msg = "Error al crear el archivo: " + e.getMessage();
-                                    GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                                }
-                            }
-                            default -> {
-                                System.out.println("Opción incorrecta, vuelva a intentarlo...");
-                                breakProgress = true;
-                            }
-
+                    } while (!Boolean.parseBoolean(ValidateDateYear.validateYear(ValidateDateYear.validate(year)))) ;
+                    System.out.println(preguntaASCIIOrHTML5);
+                    int rpta1 = input.nextInt();
+                    input.nextLine();
+                    switch (rpta1) {
+                        case 0 -> {
+                            breakProgress = false;
+                            System.out.println("Creando reporte ASCII: ");
+                            DataSismos[] lista = IOSismos.loadDataSismos(fileName, ValidateDateYear.validate(year));
+                            String reporteASCII = IOCreateArchive.makeReport(IOCreateArchive.TIPO.ASCII, lista).toString();
+                            System.out.println(reporteASCII);
+                            continuar = continurProgram ();
                         }
+                        case 1 -> {
+                            breakProgress = false;
+                            System.out.println("Creando Reporte HTML5: ");
+                            DataSismos[] lista = IOSismos.loadDataSismos(fileName, ValidateDateYear.validate(year));
+                            String reporteHTMLGraficos = IOCreateArchive.makeReport(IOCreateArchive.TIPO.HTML5GRAFICOS, lista).toString();
+                            String archivoJSPorcentaje = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.PORCENTAJES).toString();
+                            String archivoJSGraficos = IOCreateArchive.makeJs(IOCreateArchive.NOMBREJS.GRAFICOS).toString();
+                            FileDeleter.deleteFile(fileOutJsPorcentaje);
+                            FileDeleter.deleteFile(fileOutHTMLGraficos);
+                            FileDeleter.deleteFile(fileOutJsGrafico);
+                            try {
+                                TextUTP.append(reporteHTMLGraficos, fileOutHTMLGraficos);
+                                System.out.println("El archivo fue creado exitosamente.");
+                            } catch (IOException e) {
+                                String msg = "Error al crear el archivo: " + e.getMessage();
+                                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                            }
 
-                    }while (breakProgress);
+                            try {
+                                TextUTP.append(archivoJSPorcentaje, fileOutJsPorcentaje);
+                                System.out.println("El archivo fue creado exitosamente.");
+                            } catch (IOException e) {
+                                String msg = "Error al crear el archivo: " + e.getMessage();
+                                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                            }
+
+                            try {
+                                TextUTP.append(archivoJSGraficos, fileOutJsGrafico);
+                                System.out.println("El archivo fue creado exitosamente.");
+                            } catch (IOException e) {
+                                String msg = "Error al crear el archivo: " + e.getMessage();
+                                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
+                            }
+                            continuar = continurProgram ();
+                        }
+                        default -> {
+                            System.out.println("Opción incorrecta, vuelva a intentarlo...");
+                            breakProgress = false;
+                        }
+                    }
                 }
                 case "F" -> {
-                    System.out.println("Gracias por usar el programa");
-                    continuar = true; // Salir del programa
+                    System.out.println("Programa Finalizado...\n");
+                    continuar = false;
                 }
                 default -> System.out.println("Usted no a ingresado una opción valida vuelva a intentarlo nuevamente");
             }
-        }while (!continuar);
+        }while (continuar);
+        System.out.println("Gracias por usar el programa");
+    }
+
+    /**
+     * Este método te hace una pregunta si deseas continuar con el programa.
+     * @return Devuelve un valor true o false
+     */
+    public static boolean continurProgram () {
+        Scanner input = new Scanner(System.in);
+        String quiz = "¿Deseas continuar usando el programa (Y/N)?";
+        boolean verificar = true;
+        boolean check = true;
+        do {
+            System.out.println(quiz);
+            String opc = input.nextLine().toUpperCase();
+            switch (opc) {
+                case "Y" -> check = false;
+                case "N" -> {
+                    verificar = false;
+                    check = false;
+                }
+                default -> System.out.println("Ingresastes ua opción invalida vulve a intentar");
+            }
+        }while (check);
+        return verificar;
     }
 }

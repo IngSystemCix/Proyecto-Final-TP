@@ -1,7 +1,7 @@
 // procentajes (Creador: Juan Bladimir Romero Collazos)
 
 const totalDatos = 22712;
-const numeroCoincidencias = 1642;
+const numeroCoincidencias = 1331;
 const porcentaje = (100 * numeroCoincidencias) / totalDatos;
 const porcentajeCelda = document.getElementById("porcentaje");
 

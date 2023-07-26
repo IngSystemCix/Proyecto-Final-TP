@@ -7,6 +7,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
+import java.util.Scanner;
 
 /**
  * Esta clase proporciona funcionalidades para cargar y formatear datos de sismos desde un archivo CSV.
@@ -43,6 +44,7 @@ public class IOSismos {
         DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+        boolean continueWithErrors = getConfirmationFromUser();
 
         for (int i = 1; i < lineas.length; i++) {
             String linea = lineas[i];
@@ -52,34 +54,29 @@ public class IOSismos {
             String fechaCorteString = cleanString(fragmentos[7]);
             String horaUtcString = cleanString(fragmentos[2]);
 
-            LocalDate fechaUtc;
+            LocalDate fechaUtc = null;
+            LocalDate fechaFinalizado = null;
+            LocalTime horaUTC = null;
+
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalDate fechaFinalizado;
-            try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalTime horaUTC;
-            try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
+                if (continueWithErrors) {
+                    System.out.println("Carga de datos cancelada.");
+                    break;
+                }
+                String msgFechaUtc = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                String msgFechaFinalizado = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                String msgHoraUtc = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+
+                GeneratorLog.catchLog(msgFechaUtc, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgFechaFinalizado, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgHoraUtc, GeneratorLog.LEVEL.ERROR);
             }
 
-            if (yearUTC >= 1960 && fechaUtc.getYear() != yearUTC) {
+            if (yearUTC >= 1960 && (fechaUtc != null ? fechaUtc.getYear() : 0) != yearUTC) {
                 continue;
             }
 
@@ -89,9 +86,9 @@ public class IOSismos {
             int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
             double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
-            String formattedFechaUtc = fechaUtc.format(outputDft);
-            String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
-            String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+            String formattedFechaUtc = fechaUtc != null ? fechaUtc.format(outputDft) : null;
+            String formattedFechaFinalizado = fechaFinalizado != null ? fechaFinalizado.format(outputDft) : null;
+            String formattedHoraUTC = horaUTC != null ? horaUTC.format(outputDftHoraUTC) : null;
 
             lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
                     longitud, profundidad, magnitud, formattedFechaFinalizado);
@@ -124,6 +121,7 @@ public class IOSismos {
         DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+        boolean continueWithErrors = getConfirmationFromUser();
 
         for (int i = 1; i < lineas.length; i++) {
             String linea = lineas[i];
@@ -133,34 +131,29 @@ public class IOSismos {
             String fechaCorteString = cleanString(fragmentos[7]);
             String horaUtcString = cleanString(fragmentos[2]);
 
-            LocalDate fechaUtc;
+            LocalDate fechaUtc = null;
+            LocalDate fechaFinalizado = null;
+            LocalTime horaUTC = null;
+
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalDate fechaFinalizado;
-            try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalTime horaUTC;
-            try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
+                if (continueWithErrors) {
+                    System.out.println("Carga de datos cancelada.");
+                    break;
+                }
+                String msgFechaUtc = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                String msgFechaFinalizado = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                String msgHoraUtc = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+
+                GeneratorLog.catchLog(msgFechaUtc, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgFechaFinalizado, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgHoraUtc, GeneratorLog.LEVEL.ERROR);
             }
 
-            if (yearUTCIncial >= 1960 && yearUTCFinal >= yearUTCIncial && (fechaUtc.getYear() < yearUTCIncial
+            if (yearUTCIncial >= 1960 && yearUTCFinal >= yearUTCIncial && ((fechaUtc != null ? fechaUtc.getYear() : 0) < yearUTCIncial
                     || fechaUtc.getYear() > yearUTCFinal)) {
                 continue;
             }
@@ -171,9 +164,9 @@ public class IOSismos {
             int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
             double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
-            String formattedFechaUtc = fechaUtc.format(outputDft);
-            String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
-            String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+            String formattedFechaUtc = fechaUtc != null ? fechaUtc.format(outputDft) : null;
+            String formattedFechaFinalizado = fechaFinalizado != null ? fechaFinalizado.format(outputDft) : null;
+            String formattedHoraUTC = horaUTC != null ? horaUTC.format(outputDftHoraUTC) : null;
 
             lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
                     longitud, profundidad, magnitud, formattedFechaFinalizado);
@@ -209,6 +202,7 @@ public class IOSismos {
         DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+        boolean continueWithErrors = getConfirmationFromUser();
 
         for (int i = 1; i < lineas.length; i++) {
             String linea = lineas[i];
@@ -218,36 +212,31 @@ public class IOSismos {
             String fechaCorteString = cleanString(fragmentos[7]);
             String horaUtcString = cleanString(fragmentos[2]);
 
-            LocalDate fechaUtc;
+            LocalDate fechaUtc = null;
+            LocalDate fechaFinalizado = null;
+            LocalTime horaUTC = null;
+
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalDate fechaFinalizado;
-            try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalTime horaUTC;
-            try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
+                if (continueWithErrors) {
+                    System.out.println("Carga de datos cancelada.");
+                    break;
+                }
+                String msgFechaUtc = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                String msgFechaFinalizado = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                String msgHoraUtc = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+
+                GeneratorLog.catchLog(msgFechaUtc, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgFechaFinalizado, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgHoraUtc, GeneratorLog.LEVEL.ERROR);
             }
 
             int valorMes = DetectMonth.validationMonth(mes);
 
-            if (yearUTC >= 1960 && (fechaUtc.getYear() != yearUTC || fechaUtc.getMonthValue() != valorMes)) {
+            if (yearUTC >= 1960 && ((fechaUtc != null ? fechaUtc.getYear() : 0) != yearUTC || fechaUtc.getMonthValue() != valorMes)) {
                 continue;
             }
 
@@ -257,9 +246,9 @@ public class IOSismos {
             int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
             double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
-            String formattedFechaUtc = fechaUtc.format(outputDft);
-            String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
-            String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+            String formattedFechaUtc = fechaUtc != null ? fechaUtc.format(outputDft) : null;
+            String formattedFechaFinalizado = fechaFinalizado != null ? fechaFinalizado.format(outputDft) : null;
+            String formattedHoraUTC = horaUTC != null ? horaUTC.format(outputDftHoraUTC) : null;
 
             lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
                     longitud, profundidad, magnitud, formattedFechaFinalizado);
@@ -297,6 +286,7 @@ public class IOSismos {
         DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+        boolean continueWithErrors = getConfirmationFromUser();
 
         for (int i = 1; i < lineas.length; i++) {
             String linea = lineas[i];
@@ -306,31 +296,26 @@ public class IOSismos {
             String fechaCorteString = cleanString(fragmentos[7]);
             String horaUtcString = cleanString(fragmentos[2]);
 
-            LocalDate fechaUtc;
+            LocalDate fechaUtc = null;
+            LocalDate fechaFinalizado = null;
+            LocalTime horaUTC = null;
+
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalDate fechaFinalizado;
-            try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalTime horaUTC;
-            try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
+                if (continueWithErrors) {
+                    System.out.println("Carga de datos cancelada.");
+                    break;
+                }
+                String msgFechaUtc = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                String msgFechaFinalizado = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                String msgHoraUtc = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+
+                GeneratorLog.catchLog(msgFechaUtc, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgFechaFinalizado, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgHoraUtc, GeneratorLog.LEVEL.ERROR);
             }
 
             int valorMes = DetectMonth.validationMonth(mes);
@@ -338,7 +323,7 @@ public class IOSismos {
             double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
             if (yearUTC >= 1960 && magnitud >= magnitudInicial && magnitud <= magnitudFinal
-                    && fechaUtc.getYear() == yearUTC && fechaUtc.getMonthValue() == valorMes) {
+                    && (fechaUtc != null ? fechaUtc.getYear() : 0) == yearUTC && fechaUtc.getMonthValue() == valorMes) {
 
                 long id = Long.parseLong(cleanString(fragmentos[0]));
                 double latitud = Double.parseDouble(cleanString(fragmentos[3]));
@@ -346,8 +331,8 @@ public class IOSismos {
                 int profundidad = (int) Double.parseDouble(cleanString(fragmentos[5]));
 
                 String formattedFechaUtc = fechaUtc.format(outputDft);
-                String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
-                String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+                String formattedFechaFinalizado = fechaFinalizado != null ? fechaFinalizado.format(outputDft) : null;
+                String formattedHoraUTC = horaUTC != null ? horaUTC.format(outputDftHoraUTC) : null;
 
                 lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
                         longitud, profundidad, magnitud, formattedFechaFinalizado);
@@ -376,6 +361,7 @@ public class IOSismos {
         DateTimeFormatter dftHoraUTC = DateTimeFormatter.ofPattern("HHmmss");
         DateTimeFormatter outputDft = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter outputDftHoraUTC = DateTimeFormatter.ofPattern("HH:mm:ss");
+        boolean continueWithErrors = getConfirmationFromUser();
 
         for (int i = 1; i < lineas.length; i++) {
             String linea = lineas[i];
@@ -385,36 +371,31 @@ public class IOSismos {
             String fechaCorteString = cleanString(fragmentos[7]);
             String horaUtcString = cleanString(fragmentos[2]);
 
-            LocalDate fechaUtc;
+            LocalDate fechaUtc = null;
+            LocalDate fechaFinalizado = null;
+            LocalTime horaUTC = null;
+
             try {
                 fechaUtc = LocalDate.parse(fechaUtcString, dftFechaUTC);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalDate fechaFinalizado;
-            try {
                 fechaFinalizado = LocalDate.parse(fechaCorteString, dftFechaCorte);
-            } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
-            }
-
-            LocalTime horaUTC;
-            try {
                 horaUTC = LocalTime.parse(horaUtcString, dftHoraUTC);
             } catch (DateTimeParseException e) {
-                String msg = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
-                GeneratorLog.catchLog(msg, GeneratorLog.LEVEL.ERROR);
-                continue;
+                if (continueWithErrors) {
+                    System.out.println("Carga de datos cancelada...");
+                    break;
+                }
+                String msgFechaUtc = "Error al parsear la fecha UTC en la línea " + (i + 1) + ": " + fechaUtcString;
+                String msgFechaFinalizado = "Error al parsear la fecha de corte en la línea " + (i + 1) + ": " + fechaCorteString;
+                String msgHoraUtc = "Error al parsear la hora UTC en la línea " + (i + 1) + ": " + horaUtcString;
+
+                GeneratorLog.catchLog(msgFechaUtc, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgFechaFinalizado, GeneratorLog.LEVEL.ERROR);
+                GeneratorLog.catchLog(msgHoraUtc, GeneratorLog.LEVEL.ERROR);
             }
 
             int valorMes = DetectMonth.validationMonth(mes);
 
-            if (31 >= day && day > 0 && yearUTC >= 1960 && fechaUtc.getYear() == yearUTC
+            if (31 >= day && day > 0 && yearUTC >= 1960 && (fechaUtc != null ? fechaUtc.getYear() : 0) == yearUTC
                     && fechaUtc.getMonthValue() == valorMes &&fechaUtc.getDayOfMonth() == day) {
 
                 long id = Long.parseLong(cleanString(fragmentos[0]));
@@ -424,8 +405,8 @@ public class IOSismos {
                 double magnitud = Double.parseDouble(cleanString(fragmentos[6]));
 
                 String formattedFechaUtc = fechaUtc.format(outputDft);
-                String formattedFechaFinalizado = fechaFinalizado.format(outputDft);
-                String formattedHoraUTC = horaUTC.format(outputDftHoraUTC);
+                String formattedFechaFinalizado = fechaFinalizado != null ? fechaFinalizado.format(outputDft) : null;
+                String formattedHoraUTC = horaUTC != null ? horaUTC.format(outputDftHoraUTC) : null;
 
                 lista[nd++] = new DataSismos(id, formattedFechaUtc, formattedHoraUTC, latitud,
                         longitud, profundidad, magnitud, formattedFechaFinalizado);
@@ -470,6 +451,18 @@ public class IOSismos {
         }
 
         return lista;
+    }
+
+    /**
+     * Este método me devuelve un true o false dependiendo lo que elijamos.
+     * @return retorta la respuesta ignorando si es mayúscula o minúscula.
+     */
+    private static boolean getConfirmationFromUser() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("¿Desea continuar con la carga de datos pese a encontrar errores? (y/n)");
+        String response = input.nextLine().toUpperCase();
+        if (response.equals("Y")) System.out.println("Se esta generando el reporte de errores...");;
+        return !response.equalsIgnoreCase("Y");
     }
 
     /**

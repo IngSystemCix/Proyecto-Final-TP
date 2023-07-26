@@ -1,0 +1,1654 @@
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 2: 19600113		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 2: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 2: 154034		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 3: 19600115		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 3: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 3: 093024		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 4: 19600117		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 4: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 4: 025758		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 5: 19600123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 5: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 5: 033732		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 6: 19600130		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 6: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 6: 050724		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 7: 19600208		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 7: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 7: 190616		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 8: 19600213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 8: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 8: 204006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 9: 19600309		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 9: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 9: 235425		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 10: 19600401		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 10: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 10: 131823		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 11: 19600504		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 11: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 11: 012852		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 12: 19600512		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 12: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 12: 120924		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 13: 19600704		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 13: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 13: 080207		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 14: 19600709		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 14: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 14: 020539		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 15: 19600719		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 15: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 15: 041914		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 16: 19600730		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 16: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 16: 071515		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 17: 19600913		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 17: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 17: 215534		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 18: 19600914		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 18: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 18: 000803		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 19: 19600924		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 19: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 19: 135833		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 20: 19600926		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 20: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 20: 165813		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 21: 19601103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 21: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 21: 220219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 22: 19601111		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 22: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 22: 065327		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 23: 19601120		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 23: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 23: 220156		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 24: 19601129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 24: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 24: 191706		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 25: 19601217		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 25: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 25: 073831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 26: 19601222		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 26: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 26: 034721		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 27: 19601230		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 27: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 27: 110336		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 28: 19610108		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 28: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 28: 052146		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 29: 19610128		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 29: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 29: 032446		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 30: 19610208		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 30: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 30: 080413		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 31: 19610317		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 31: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 31: 100628		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 32: 19610409		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 32: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 32: 171747		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 33: 19610427		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 33: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 33: 175214		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 34: 19610603		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 34: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 34: 042156		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 35: 19610617		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 35: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 35: 105630		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 36: 19610701		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 36: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 36: 131040		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 37: 19610703		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 37: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 37: 144930		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 38: 19610708		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 38: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 38: 054902		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 39: 19610728		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 39: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 39: 010531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 40: 19610817		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 40: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 40: 174943		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 41: 19610819		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 41: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 41: 050949		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 42: 19610820		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 42: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 42: 091011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 43: 19610828		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 43: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 43: 062819		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 44: 19610828		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 44: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 44: 212716		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 45: 19610830		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 45: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 45: 034528		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 46: 19610831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 46: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 46: 014839		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 47: 19610831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 47: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 47: 015708		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 48: 19610906		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 48: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 48: 153020		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 49: 19610912		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 49: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 49: 111825		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 50: 19611011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 50: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 50: 122835		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 51: 19611108		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 51: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 51: 193000		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 52: 19611110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 52: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 52: 020734		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 53: 19611123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 53: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 53: 111728		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 54: 19611129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 54: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 54: 203809		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 55: 19611209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 55: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 55: 035855		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 56: 19611224		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 56: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 56: 142531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 57: 19620102		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 57: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 57: 052341		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 58: 19620125		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 58: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 58: 072604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 59: 19620301		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 59: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 59: 021237		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 60: 19620312		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 60: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 60: 015237		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 61: 19620319		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 61: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 61: 210416		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 62: 19620322		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 62: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 62: 205036		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 63: 19620418		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 63: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 63: 191437		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 64: 19620715		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 64: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 64: 144350		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 65: 19620725		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 65: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 65: 060515		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 66: 19620725		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 66: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 66: 065556		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 67: 19620824		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 67: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 67: 131537		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 68: 19620830		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 68: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 68: 062228		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 69: 19620909		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 69: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 69: 032156		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 70: 19620920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 70: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 70: 092526		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 71: 19620922		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 71: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 71: 164531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 72: 19620928		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 72: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 72: 221452		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 73: 19620929		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 73: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 73: 075820		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 74: 19621020		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 74: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 74: 063329		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 75: 19621108		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 75: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 75: 000210		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 76: 19621115		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 76: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 76: 232515		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 77: 19621123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 77: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 77: 003004		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 78: 19621224		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 78: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 78: 174305		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 79: 19630116		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 79: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 79: 202051		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 80: 19630117		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 80: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 80: 042219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 81: 19630117		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 81: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 81: 193059		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 82: 19630122		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 82: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 82: 083235		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 83: 19630203		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 83: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 83: 111809		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 84: 19630216		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 84: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 84: 213222		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 85: 19630224		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 85: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 85: 053819		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 86: 19630227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 86: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 86: 110042		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 87: 19630304		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 87: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 87: 154302		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 88: 19630304		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 88: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 88: 183151		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 89: 19630305		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 89: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 89: 070500		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 90: 19630331		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 90: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 90: 044559		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 91: 19630331		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 91: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 91: 055100		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 92: 19630403		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 92: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 92: 013559		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 93: 19630404		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 93: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 93: 082626		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 94: 19630406		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 94: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 94: 004300		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 95: 19630413		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 95: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 95: 022058		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 96: 19630428		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 96: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 96: 052205		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 97: 19630430		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 97: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 97: 184307		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 98: 19630510		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 98: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 98: 130522		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	   Error al parsear la fecha UTC en la línea 99: 19630517		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 99: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	      Error al parsear la hora UTC en la línea 99: 141105		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 100: 19630526		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 100: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 100: 124346		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 101: 19630526		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 101: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 101: 191339		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 102: 19630618		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 102: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 102: 153955		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 103: 19630621		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 103: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 103: 121313		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 104: 19630624		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 104: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 104: 012103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 105: 19630625		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 105: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 105: 104531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 106: 19630627		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 106: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 106: 131515		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 107: 19630630		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 107: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 107: 110949		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 108: 19630630		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 108: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 108: 124356		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 109: 19630705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 109: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 109: 054813		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 110: 19630705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 110: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 110: 142924		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 111: 19630710		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 111: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 111: 114735		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 112: 19630722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 112: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 112: 163322		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 113: 19630726		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 113: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 113: 234826		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 114: 19630801		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 114: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 114: 183026		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 115: 19630804		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 115: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 115: 120724		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 116: 19630805		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 116: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 116: 084659		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 117: 19630815		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 117: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 117: 143601		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 118: 19630815		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 118: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 118: 172506		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 119: 19630818		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 119: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 119: 230754		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 120: 19630827		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 120: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 120: 125655		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 121: 19630829		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 121: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 121: 153031		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 122: 19630831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 122: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 122: 103030		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 123: 19630902		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 123: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 123: 041018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 124: 19630910		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 124: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 124: 073608		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 125: 19630917		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 125: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 125: 055436		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 126: 19630920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 126: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 126: 040036		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 127: 19630924		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 127: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 127: 163016		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 128: 19631006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 128: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 128: 121047		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 129: 19631007		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 129: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 129: 124353		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 130: 19631019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 130: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 130: 021417		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 131: 19631027		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 131: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 131: 074526		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 132: 19631028		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 132: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 132: 025030		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 133: 19631030		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 133: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 133: 011731		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 134: 19631031		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 134: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 134: 231915		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 135: 19631102		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 135: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 135: 160713		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 136: 19631103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 136: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 136: 031012		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 137: 19631103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 137: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 137: 042448		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 138: 19631103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 138: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 138: 073810		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 139: 19631103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 139: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 139: 120228		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 140: 19631104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 140: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 140: 032930		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 141: 19631106		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 141: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 141: 010107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 142: 19631106		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 142: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 142: 012846		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 143: 19631106		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 143: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 143: 183325		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 144: 19631108		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 144: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 144: 192254		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 145: 19631109		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 145: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 145: 211532		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 146: 19631110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 146: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 146: 010039		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 147: 19631112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 147: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 147: 122645		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 148: 19631115		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 148: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 148: 001852		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 149: 19631118		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 149: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 149: 071750		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 150: 19631119		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 150: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 150: 223658		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 151: 19631127		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 151: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 151: 021941		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 152: 19631129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 152: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 152: 015845		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 153: 19631204		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 153: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 153: 031307		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 154: 19631204		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 154: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 154: 042122		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 155: 19631206		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 155: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 155: 181432		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 156: 19631210		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 156: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 156: 072636		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 157: 19631218		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 157: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 157: 014213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 158: 19631219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 158: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 158: 145443		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 159: 19631219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 159: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 159: 170407		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 160: 19631220		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 160: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 160: 104804		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 161: 19631224		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 161: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 161: 024042		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 162: 19631227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 162: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 162: 000959		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 163: 19631230		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 163: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 163: 162048		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 164: 19640103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 164: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 164: 132751		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 165: 19640105		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 165: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 165: 183356		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 166: 19640110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 166: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 166: 053704		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 167: 19640112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 167: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 167: 142153		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 168: 19640117		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 168: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 168: 132722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 169: 19640126		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 169: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 169: 090935		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 170: 19640128		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 170: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 170: 130350		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 171: 19640201		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 171: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 171: 114737		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 172: 19640204		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 172: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 172: 062453		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 173: 19640204		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 173: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 173: 073808		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 174: 19640215		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 174: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 174: 044606		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 175: 19640216		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 175: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 175: 100338		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 176: 19640218		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 176: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 176: 103323		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 177: 19640219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 177: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 177: 062912		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 178: 19640220		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 178: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 178: 072223		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 179: 19640220		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 179: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 179: 105743		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 180: 19640221		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 180: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 180: 135148		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 181: 19640221		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 181: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 181: 215213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 182: 19640223		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 182: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 182: 043519		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 183: 19640224		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 183: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 183: 183834		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 184: 19640307		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 184: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 184: 045104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 185: 19640307		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 185: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 185: 205328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 186: 19640310		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 186: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 186: 224854		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 187: 19640314		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 187: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 187: 021402		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 188: 19640319		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 188: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 188: 222904		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 189: 19640322		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 189: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 189: 070537		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 190: 19640322		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 190: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 190: 175118		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 191: 19640324		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 191: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 191: 063619		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 192: 19640326		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 192: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 192: 052506		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 193: 19640401		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 193: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 193: 042655		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 194: 19640403		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 194: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 194: 134640		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 195: 19640408		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 195: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 195: 160109		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 196: 19640409		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 196: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 196: 215441		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 197: 19640410		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 197: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 197: 060911		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 198: 19640419		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 198: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 198: 194132		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 199: 19640425		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 199: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 199: 114615		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 200: 19640425		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 200: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 200: 133607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 201: 19640428		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 201: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 201: 193331		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 202: 19640429		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 202: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 202: 040801		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 203: 19640429		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 203: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 203: 175948		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 204: 19640504		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 204: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 204: 192541		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 205: 19640505		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 205: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 205: 032655		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 206: 19640509		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 206: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 206: 200635		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 207: 19640514		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 207: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 207: 113016		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 208: 19640518		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 208: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 208: 041505		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 209: 19640523		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 209: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 209: 164207		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 210: 19640528		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 210: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 210: 124959		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 211: 19640531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 211: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 211: 195809		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 212: 19640603		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 212: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 212: 074931		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 213: 19640604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 213: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 213: 114603		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 214: 19640606		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 214: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 214: 003252		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 215: 19640606		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 215: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 215: 034427		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 216: 19640609		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 216: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 216: 153130		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 217: 19640616		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 217: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 217: 111525		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 218: 19640621		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 218: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 218: 065448		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 219: 19640623		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 219: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 219: 003012		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 220: 19640701		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 220: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 220: 224920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 221: 19640702		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 221: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 221: 090937		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 222: 19640704		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 222: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 222: 121346		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 223: 19640705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 223: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 223: 221459		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 224: 19640710		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 224: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 224: 191644		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 225: 19640718		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 225: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 225: 111317		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 226: 19640802		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 226: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 226: 081405		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 227: 19640804		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 227: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 227: 130622		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 228: 19640810		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 228: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 228: 073453		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 229: 19640813		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 229: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 229: 163219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 230: 19640818		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 230: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 230: 002653		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 231: 19640819		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 231: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 231: 140038		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 232: 19640910		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 232: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 232: 213632		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 233: 19640917		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 233: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 233: 074114		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 234: 19640919		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 234: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 234: 172612		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 235: 19640921		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 235: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 235: 132744		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 236: 19640929		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 236: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 236: 184614		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 237: 19640929		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 237: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 237: 203152		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 238: 19641002		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 238: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 238: 204147		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 239: 19641003		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 239: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 239: 124932		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 240: 19641006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 240: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 240: 181907		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 241: 19641011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 241: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 241: 141914		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 242: 19641013		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 242: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 242: 235413		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 243: 19641017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 243: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 243: 074533		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 244: 19641028		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 244: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 244: 030708		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 245: 19641102		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 245: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 245: 065101		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 246: 19641111		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 246: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 246: 184856		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 247: 19641112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 247: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 247: 121337		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 248: 19641118		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 248: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 248: 001202		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 249: 19641118		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 249: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 249: 040401		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 250: 19641121		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 250: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 250: 172425		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 251: 19641128		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 251: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 251: 164931		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 252: 19641129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 252: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 252: 032455		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 253: 19641206		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 253: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 253: 031538		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 254: 19641207		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 254: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 254: 155553		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 255: 19641215		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 255: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 255: 162011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 256: 19641219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 256: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 256: 111805		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 257: 19641222		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 257: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 257: 002449		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 258: 19650102		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 258: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 258: 052510		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 259: 19650106		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 259: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 259: 152633		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 260: 19650107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 260: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 260: 115730		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 261: 19650107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 261: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 261: 141722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 262: 19650109		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 262: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 262: 143514		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 263: 19650110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 263: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 263: 034346		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 264: 19650111		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 264: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 264: 092739		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 265: 19650112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 265: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 265: 133651		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 266: 19650114		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 266: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 266: 082519		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 267: 19650123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 267: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 267: 144826		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 268: 19650125		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 268: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 268: 223639		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 269: 19650126		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 269: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 269: 165415		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 270: 19650128		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 270: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 270: 053500		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 271: 19650213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 271: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 271: 100524		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 272: 19650218		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 272: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 272: 223219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 273: 19650219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 273: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 273: 230150		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 274: 19650220		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 274: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 274: 211013		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 275: 19650309		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 275: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 275: 025552		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 276: 19650311		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 276: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 276: 145505		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 277: 19650312		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 277: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 277: 225446		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 278: 19650315		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 278: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 278: 050851		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 279: 19650324		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 279: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 279: 111705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 280: 19650328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 280: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 280: 053028		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 281: 19650328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 281: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 281: 100001		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 282: 19650404		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 282: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 282: 200943		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 283: 19650406		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 283: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 283: 192150		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 284: 19650408		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 284: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 284: 000247		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 285: 19650415		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 285: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 285: 020010		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 286: 19650422		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 286: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 286: 221405		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 287: 19650427		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 287: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 287: 052447		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 288: 19650428		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 288: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 288: 094212		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 289: 19650504		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 289: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 289: 121041		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 290: 19650505		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 290: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 290: 091358		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 291: 19650508		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 291: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 291: 222240		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 292: 19650509		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 292: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 292: 195901		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 293: 19650510		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 293: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 293: 083521		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 294: 19650511		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 294: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 294: 005831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 295: 19650512		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 295: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 295: 094238		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 296: 19650520		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 296: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 296: 095515		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 297: 19650529		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 297: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 297: 042516		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 298: 19650603		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 298: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 298: 121231		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 299: 19650604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 299: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 299: 145334		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 300: 19650605		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 300: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 300: 204110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 301: 19650608		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 301: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 301: 054650		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 302: 19650618		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 302: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 302: 033750		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 303: 19650618		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 303: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 303: 224518		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 304: 19650621		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 304: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 304: 104641		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 305: 19650624		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 305: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 305: 032949		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 306: 19650624		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 306: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 306: 165405		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 307: 19650626		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 307: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 307: 055514		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 308: 19650627		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 308: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 308: 170905		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 309: 19650630		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 309: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 309: 081544		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 310: 19650702		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 310: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 310: 010948		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 311: 19650702		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 311: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 311: 022816		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 312: 19650708		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 312: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 312: 235119		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 313: 19650709		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 313: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 313: 174641		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 314: 19650713		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 314: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 314: 175802		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 315: 19650713		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 315: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 315: 223449		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 316: 19650714		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 316: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 316: 122957		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 317: 19650715		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 317: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 317: 083124		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 318: 19650723		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 318: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 318: 151324		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 319: 19650724		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 319: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 319: 121608		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 320: 19650728		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 320: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 320: 194247		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 321: 19650730		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 321: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 321: 054518		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 322: 19650730		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 322: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 322: 121107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 323: 19650801		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 323: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 323: 043641		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 324: 19650801		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 324: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 324: 061359		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 325: 19650803		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 325: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 325: 020153		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 326: 19650807		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 326: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 326: 052607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 327: 19650813		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 327: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 327: 005445		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 328: 19650822		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 328: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 328: 122425		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 329: 19650823		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 329: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 329: 000811		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 330: 19650825		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 330: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 330: 145037		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 331: 19650906		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 331: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 331: 162553		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 332: 19650908		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 332: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 332: 041034		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 333: 19650911		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 333: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 333: 181754		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 334: 19650914		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 334: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 334: 045024		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 335: 19650914		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 335: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 335: 071758		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 336: 19650916		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 336: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 336: 085723		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 337: 19650919		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 337: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 337: 141749		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 338: 19650920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 338: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 338: 063742		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 339: 19650920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 339: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 339: 181041		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 340: 19650924		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 340: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 340: 094041		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 341: 19650926		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 341: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 341: 054756		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 342: 19651004		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 342: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 342: 212512		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 343: 19651006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 343: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 343: 024023		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 344: 19651008		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 344: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 344: 222850		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 345: 19651010		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 345: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 345: 193500		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 346: 19651011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 346: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 346: 000704		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 347: 19651017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 347: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 347: 140905		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 348: 19651019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 348: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 348: 020254		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 349: 19651103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 349: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 349: 013904		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 350: 19651106		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 350: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 350: 010605		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 351: 19651110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 351: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 351: 014722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 352: 19651121		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 352: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 352: 042923		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 353: 19651123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 353: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 353: 102100		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 354: 19651124		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 354: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 354: 093056		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 355: 19651126		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 355: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 355: 002549		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 356: 19651129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 356: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 356: 170703		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 357: 19651129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 357: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 357: 175355		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 358: 19651130		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 358: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 358: 094440		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 359: 19651130		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 359: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 359: 094613		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 360: 19651202		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 360: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 360: 003631		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 361: 19651203		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 361: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 361: 083227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 362: 19651203		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 362: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 362: 095549		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 363: 19651207		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 363: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 363: 034441		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 364: 19651208		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 364: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 364: 025538		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 365: 19651210		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 365: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 365: 025916		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 366: 19651211		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 366: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 366: 214829		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 367: 19651214		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 367: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 367: 045519		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 368: 19651219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 368: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 368: 201025		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 369: 19651228		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 369: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 369: 220454		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 370: 19651229		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 370: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 370: 040829		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 371: 19651230		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 371: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 371: 061604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 372: 19660101		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 372: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 372: 195156		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 373: 19660104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 373: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 373: 124814		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 374: 19660109		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 374: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 374: 201654		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 375: 19660112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 375: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 375: 080209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 376: 19660113		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 376: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 376: 141710		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 377: 19660117		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 377: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 377: 065705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 378: 19660118		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 378: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 378: 102558		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 379: 19660119		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 379: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 379: 044431		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 380: 19660120		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 380: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 380: 071406		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 381: 19660122		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 381: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 381: 140541		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 382: 19660128		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 382: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 382: 212524		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 383: 19660207		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 383: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 383: 084123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 384: 19660209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 384: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 384: 035505		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 385: 19660209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 385: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 385: 151330		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 386: 19660210		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 386: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 386: 104336		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 387: 19660214		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 387: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 387: 163445		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 388: 19660220		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 388: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 388: 152544		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 389: 19660223		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 389: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 389: 181022		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 390: 19660226		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 390: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 390: 153718		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 391: 19660227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 391: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 391: 055841		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 392: 19660227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 392: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 392: 060836		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 393: 19660312		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 393: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 393: 180653		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 394: 19660323		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 394: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 394: 215712		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 395: 19660324		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 395: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 395: 141730		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 396: 19660328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 396: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 396: 152923		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 397: 19660328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 397: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 397: 174247		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 398: 19660328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 398: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 398: 182017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 399: 19660328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 399: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 399: 185621		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 400: 19660328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 400: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 400: 202934		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 401: 19660403		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 401: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 401: 091728		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 402: 19660406		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 402: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 402: 122448		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 403: 19660412		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 403: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 403: 013107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 404: 19660427		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 404: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 404: 135355		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 405: 19660501		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 405: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 405: 080424		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 406: 19660501		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 406: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 406: 162257		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 407: 19660502		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 407: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 407: 105550		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 408: 19660502		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 408: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 408: 212851		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 409: 19660502		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 409: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 409: 213404		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 410: 19660507		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 410: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 410: 064840		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 411: 19660511		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 411: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 411: 000132		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 412: 19660513		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 412: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 412: 013520		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 413: 19660519		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 413: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 413: 173724		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 414: 19660521		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 414: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 414: 074421		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 415: 19660525		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 415: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 415: 162957		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 416: 19660525		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 416: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 416: 232127		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 417: 19660526		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 417: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 417: 005323		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 418: 19660531		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 418: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 418: 085022		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 419: 19660601		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 419: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 419: 181830		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 420: 19660602		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 420: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 420: 170541		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 421: 19660602		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 421: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 421: 174946		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 422: 19660604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 422: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 422: 100431		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 423: 19660604		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 423: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 423: 144804		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 424: 19660605		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 424: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 424: 005301		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 425: 19660605		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 425: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 425: 041733		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 426: 19660605		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 426: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 426: 190310		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 427: 19660607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 427: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 427: 005945		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 428: 19660607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 428: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 428: 012011		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 429: 19660607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 429: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 429: 015623		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 430: 19660607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 430: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 430: 032418		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 431: 19660607		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 431: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 431: 151443		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 432: 19660608		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 432: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 432: 145653		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 433: 19660610		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 433: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 433: 081328		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 434: 19660610		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 434: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 434: 141343		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 435: 19660611		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 435: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 435: 110413		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 436: 19660618		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 436: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 436: 054317		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 437: 19660619		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 437: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 437: 154049		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 438: 19660620		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 438: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 438: 003019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 439: 19660620		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 439: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 439: 110149		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 440: 19660621		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 440: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 440: 125123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 441: 19660623		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 441: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 441: 002018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 442: 19660630		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 442: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 442: 104954		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 443: 19660705		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 443: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 443: 235019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 444: 19660706		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 444: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 444: 000556		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 445: 19660715		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 445: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 445: 042352		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 446: 19660721		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 446: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 446: 055412		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 447: 19660722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 447: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 447: 194739		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 448: 19660726		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 448: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 448: 215334		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 449: 19660727		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 449: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 449: 231057		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 450: 19660729		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 450: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 450: 082601		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 451: 19660731		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 451: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 451: 221827		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 452: 19660801		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 452: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 452: 095040		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 453: 19660806		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 453: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 453: 143844		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 454: 19660807		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 454: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 454: 202227		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 455: 19660814		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 455: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 455: 074650		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 456: 19660820		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 456: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 456: 074329		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 457: 19660823		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 457: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 457: 013717		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 458: 19660824		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 458: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 458: 154101		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 459: 19660826		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 459: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 459: 143727		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 460: 19660827		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 460: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 460: 005936		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 461: 19660827		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 461: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 461: 154300		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 462: 19660829		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 462: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 462: 054812		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 463: 19660831		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 463: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 463: 095651		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 464: 19660903		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 464: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 464: 224216		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 465: 19660904		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 465: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 465: 053753		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 466: 19660906		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 466: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 466: 210438		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 467: 19660907		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 467: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 467: 102047		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 468: 19660907		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 468: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 468: 120703		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 469: 19660909		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 469: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 469: 040406		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 470: 19660909		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 470: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 470: 052806		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 471: 19660910		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 471: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 471: 200900		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 472: 19660917		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 472: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 472: 125523		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 473: 19660918		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 473: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 473: 113321		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 474: 19660920		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 474: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 474: 143245		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 475: 19660930		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 475: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 475: 092913		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 476: 19661012		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 476: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 476: 182750		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 477: 19661013		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 477: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 477: 154517		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 478: 19661016		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 478: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 478: 151822		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 479: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 479: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 479: 111157		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 480: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 480: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 480: 214158		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 481: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 481: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 481: 215322		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 482: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 482: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 482: 222641		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 483: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 483: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 483: 230423		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 484: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 484: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 484: 233240		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 485: 19661017		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 485: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 485: 234654		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 486: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 486: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 486: 010343		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 487: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 487: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 487: 015344		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 488: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 488: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 488: 015619		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 489: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 489: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 489: 044255		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 490: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 490: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 490: 082608		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 491: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 491: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 491: 090003		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 492: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 492: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 492: 110205		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 493: 19661018		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 493: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 493: 125216		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 494: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 494: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 494: 005110		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 495: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 495: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 495: 021746		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 496: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 496: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 496: 060557		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 497: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 497: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 497: 072544		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 498: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 498: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 498: 173756		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 499: 19661019		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 499: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 499: 222330		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 500: 19661020		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 500: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 500: 222247		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 501: 19661020		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 501: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 501: 235055		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 502: 19661023		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 502: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 502: 034619		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 503: 19661023		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 503: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 503: 153254		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 504: 19661025		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 504: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 504: 145313		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 505: 19661027		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 505: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 505: 001651		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 506: 19661027		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 506: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 506: 100739		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 507: 19661027		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 507: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 507: 120834		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 508: 19661029		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 508: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 508: 044538		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 509: 19661029		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 509: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 509: 153223		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 510: 19661029		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 510: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 510: 154218		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 511: 19661103		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 511: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 511: 132631		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 512: 19661104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 512: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 512: 085554		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 513: 19661104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 513: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 513: 091504		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 514: 19661107		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 514: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 514: 203133		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 515: 19661108		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 515: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 515: 145537		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 516: 19661109		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 516: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 516: 020158		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 517: 19661112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 517: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 517: 184932		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 518: 19661113		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 518: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 518: 011900		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 519: 19661113		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 519: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 519: 142440		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 520: 19661116		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 520: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 520: 172225		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 521: 19661119		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 521: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 521: 030219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 522: 19661119		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 522: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 522: 182030		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 523: 19661120		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 523: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 523: 015248		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 524: 19661120		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 524: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 524: 060934		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 525: 19661125		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 525: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 525: 190123		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 526: 19661201		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 526: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 526: 001746		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 527: 19661201		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 527: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 527: 114140		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 528: 19661209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 528: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 528: 100656		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 529: 19661209		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 529: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 529: 133240		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 530: 19661213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 530: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 530: 105907		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 531: 19661214		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 531: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 531: 083950		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 532: 19661218		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 532: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 532: 235932		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 533: 19661219		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 533: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 533: 021031		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 534: 19661222		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 534: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 534: 155722		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 535: 19661223		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 535: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 535: 185907		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 536: 19661226		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 536: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 536: 202942		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 537: 19670101		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 537: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 537: 095512		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 538: 19670104		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 538: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 538: 195342		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 539: 19670111		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 539: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 539: 160806		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 540: 19670112		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 540: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 540: 054401		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 541: 19670120		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 541: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 541: 005943		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 542: 19670127		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 542: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 542: 083852		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 543: 19670129		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 543: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 543: 182744		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 544: 19670201		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 544: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 544: 144407		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 545: 19670205		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 545: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 545: 032044		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 546: 19670205		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 546: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 546: 164547		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 547: 19670208		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 547: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 547: 121800		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 548: 19670210		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 548: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 548: 065137		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 549: 19670211		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 549: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 549: 192503		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 550: 19670213		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 550: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 550: 102547		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 551: 19670215		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 551: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 551: 161113		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 552: 19670215		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 552: 20223006		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	     Error al parsear la hora UTC en la línea 552: 164634		|
+|	[ 2023/07/25 20:39:59]	  |	     ERROR	  |	  Error al parsear la fecha UTC en la línea 553: 19670217		|

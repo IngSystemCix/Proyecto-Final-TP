@@ -1,0 +1,6 @@
+|	[ 2023/07/25 19:20:40]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 2: 19600113		|
+|	[ 2023/07/25 19:20:40]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 2: 20223006		|
+|	[ 2023/07/25 19:20:40]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 2: 154034		|
+|	[ 2023/07/25 19:20:47]	  |	     ERROR	  |	    Error al parsear la fecha UTC en la línea 3: 19600115		|
+|	[ 2023/07/25 19:20:47]	  |	     ERROR	  |	Error al parsear la fecha de corte en la línea 3: 20223006		|
+|	[ 2023/07/25 19:20:47]	  |	     ERROR	  |	       Error al parsear la hora UTC en la línea 3: 093024		|
